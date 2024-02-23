@@ -1,0 +1,29 @@
+/*
+Theme Name:   Snorkellifts Theme
+Description:  A custom child theme for Snorkellifts, by Seerox, a professional web development company. This child theme is designed to enhance and extend the functionality of the Elementor, providing a tailored solution for your website needs. It includes specific styles and scripts for various templates, such as pages, posts, and more. Enjoy a seamless integration with Elementor and leverage the expertise of Seerox for a unique and polished web presence.
+Author: Seerox
+Author URI: https://www.seerox.com
+Template:     hello-elementor
+Version:      1.0.0
+Text Domain: hello-elementor-child
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* Add your custom styles below this line */
+
+.hidden {
+    display: none !important;
+}
+#loginform input#wp-submit {
+    border-radius: 0px !important;
+    font-weight: 600;
+}
+#loginform .login form .input, .login input[type="text"] {
+    height: 45px!important;}
+.login a.privacy-policy-link {
+    color: #230f20 !important;
+}
+.login .message, .login .success, .login .custom-message {
+    border-left: 4px solid #ff6c0c !important;
+}

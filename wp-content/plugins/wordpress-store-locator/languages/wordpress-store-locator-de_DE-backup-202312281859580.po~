@@ -1,0 +1,4088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Product Catalog\n"
+"POT-Creation-Date: 2020-11-01 12:53+0000\n"
+"PO-Revision-Date: 2023-12-28 18:57+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.3; wp-5.7.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/redux-framework\n"
+"X-Poedit-SearchPathExcluded-1: admin/redux-extensions\n"
+"X-Poedit-SearchPathExcluded-2: admin/meta-box\n"
+
+#: admin/class-wordpress-store-locator-post-type.php:745
+#: admin/class-wordpress-store-locator-post-type.php:795
+msgid " (close)"
+msgstr " (geschlossen)"
+
+#: admin/class-wordpress-store-locator-post-type.php:741
+#: admin/class-wordpress-store-locator-post-type.php:791
+msgid " (open)"
+msgstr " (geöffnet)"
+
+#: admin/options-init.php:127
+msgid "\">register your License here</a>."
+msgstr "\"> Registrieren Sie Ihre Lizenz hier </a>."
+
+#: admin/class-wordpress-store-locator-post-type.php:173
+#: admin/class-wordpress-store-locator-post-type.php:174
+#: admin/class-wordpress-store-locator-post-type.php:183
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: admin/options-init.php:1157
+msgid "<h2>Contact all stores</h2><p>[your_form_shortcode]</p>"
+msgstr "<h2>Kontaktieren Sie alle Geschäfte</h2><p>[your_form_shortcode]</p>"
+
+#: admin/options-init.php:2193
+msgid "_blank (new Window)"
+msgstr "_blank (neues Fenster)"
+
+#: admin/options-init.php:2194
+msgid "_parent (parent Window)"
+msgstr "_parent (Eltern-Fenster)"
+
+#: admin/options-init.php:2192
+msgid "_self (same Window)"
+msgstr "_self (selbes Fenster)"
+
+#: admin/options-init.php:2195
+msgid "_top (full body of the Window)"
+msgstr "_top (ganzes Fenster)"
+
+#: public/class-wordpress-store-locator-public.php:1398
+msgid "Active Filter"
+msgstr "Aktive Filter"
+
+#. Description of the plugin
+msgid "Add a Store Locator to your WordPress!"
+msgstr "Füge Deinem WordPress einen Store Locator hinzu!"
+
+#: admin/class-wordpress-store-locator-post-type.php:84
+#: admin/class-wordpress-store-locator-post-type.php:148
+#: admin/class-wordpress-store-locator-post-type.php:181
+#, php-format
+msgid "Add New %s"
+msgstr "Neue %s hinzufügen"
+
+#: admin/options-init.php:2422
+msgid "Add some javascript if you want."
+msgstr "Gib dem Plugin eigene Funktionen."
+
+#: admin/options-init.php:2415
+msgid "Add some stylesheet if you want."
+msgstr "Gib dem Plugin dein eigenes Styling."
+
+#: public/class-wordpress-store-locator-listing.php:528
+#: public/class-wordpress-store-locator-public.php:650
+msgid "Additional Information "
+msgstr "zusätzliche Information"
+
+#: admin/options-init.php:1002 admin/options-init.php:1022
+#: admin/class-wordpress-store-locator-post-type.php:357
+msgid "Address"
+msgstr "Adresse"
+
+#: public/class-wordpress-store-locator-listing.php:476
+#: public/class-wordpress-store-locator-listing.php:488
+#: public/class-wordpress-store-locator-public.php:588
+#: public/class-wordpress-store-locator-public.php:605
+msgid "Address "
+msgstr "Adresse "
+
+#: admin/options-init.php:918
+msgid "Address Field"
+msgstr "Adressfeld"
+
+#: admin/options-init.php:1020
+msgid "Address Field Name"
+msgstr "Name des Adressfelds"
+
+#: admin/options-init.php:1021
+msgid "Address Field Name label text."
+msgstr "Adressfeld Name Beschriftungstext."
+
+#: admin/options-init.php:1027
+msgid "Address Field Name Placeholder"
+msgstr "Adressfeld Name Platzhalter"
+
+#: admin/options-init.php:1028
+msgid "Address Field Name placeholder text."
+msgstr "Platzhaltertext für Adressfeldname."
+
+#: admin/options-init.php:1476
+msgid "Address Format"
+msgstr "Adressformat"
+
+#: admin/class-wordpress-store-locator-post-type.php:471
+msgid "Address Line 1"
+msgstr "Adresse 1"
+
+#: admin/class-wordpress-store-locator-post-type.php:476
+msgid "Address Line 2"
+msgstr "Adresszeile 2"
+
+#: admin/options-init.php:403
+msgid "Adjust zoom level to Radius automatically"
+msgstr "Zoomstufe automatisch an Umkreis anpassen"
+
+#: admin/options-init.php:212
+msgid "Advanced Layout"
+msgstr "Erweitertes Layout"
+
+#: admin/options-init.php:2353
+msgid "Advanced settings"
+msgstr "Erweiterte Einstellungen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: admin/options-init.php:2216
+msgid "After Main Product"
+msgstr "Nach Hauptartikel"
+
+#: admin/options-init.php:2213
+msgid "After Meta Information"
+msgstr "Nach Meta-Informationen"
+
+#: admin/options-init.php:2215
+msgid "After Single Product"
+msgstr "Nach Einzelartikel"
+
+#: admin/options-init.php:2214
+msgid "After Single Product Summary"
+msgstr "Nach Einzelartikel-Zusammenfassung"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Albania"
+msgstr "Albanien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Algeria"
+msgstr "Algerien"
+
+#: admin/options-init.php:1289
+msgid "All"
+msgstr "Alle"
+
+#: admin/class-wordpress-store-locator-post-type.php:81
+#: admin/class-wordpress-store-locator-post-type.php:143
+#: admin/class-wordpress-store-locator-post-type.php:176
+#, php-format
+msgid "All %s"
+msgstr "Alle %s"
+
+#: public/class-wordpress-store-locator-public.php:2165
+msgid "All Stores"
+msgstr "Alle Standorte"
+
+#: admin/options-init.php:695
+msgid "All stores Hide Distance"
+msgstr "Alle Geschäfte verstecken Entfernung"
+
+#: admin/options-init.php:673
+msgid "All Stores Sort Results by"
+msgstr "Alle Geschäfte Ergebnisse sortieren nach"
+
+#: admin/options-init.php:924
+msgid "Along Route"
+msgstr "Entlang der Route"
+
+#: admin/options-init.php:1057
+msgid "Along Route - Button Text"
+msgstr "Entlang der Route – Schaltflächentext"
+
+#: admin/options-init.php:1064
+msgid "Along Route - Radius for each waypoint"
+msgstr "Entlang der Route – Radius für jeden Wegpunkt"
+
+#: admin/options-init.php:1050
+msgid "Along Route - Title"
+msgstr "Entlang der Route - Titel"
+
+#: admin/options-init.php:1074
+msgid "Along Route - Waypoints Interval"
+msgstr "Entlang der Route – Wegpunktintervall"
+
+#: admin/options-init.php:662 admin/options-init.php:676
+msgid "Alphabetically"
+msgstr "Alphabetisch"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "American Samoa"
+msgstr "Amerikanischen Samoa-Inseln"
+
+#: admin/options-init.php:2364
+msgid "AND"
+msgstr "UND"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Andorra"
+msgstr "Andorra"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Angola"
+msgstr "Angola"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Antarctica"
+msgstr "Antarktis"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Antigua and Barbuda"
+msgstr "Antigua und Barbuda"
+
+#: admin/options-init.php:1946
+msgid "Append City to Store Names"
+msgstr "Hängen Sie die Stadt an die Geschäftsnamen an"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Argentina"
+msgstr "Argentinien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Armenia"
+msgstr "Armenien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Aruba"
+msgstr "Aruba"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Australia"
+msgstr "Australien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Austria"
+msgstr "Österreich"
+
+#: admin/options-init.php:411
+msgid "Automatically extend the search radius if no stores were found."
+msgstr ""
+"Umkreissuche automatisch erweitern wenn keine Filialen gefunden werden."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Azerbaijan"
+msgstr "Aserbaidschan"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Bangladesh"
+msgstr "Bangladesch"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Barbados"
+msgstr "Barbados"
+
+#: admin/options-init.php:2208
+msgid "Before Main Content"
+msgstr "Vor dem Hauptinhalt"
+
+#: admin/options-init.php:2212
+msgid "Before Meta Information"
+msgstr "Vor Meta-Informationen"
+
+#: admin/options-init.php:2209
+msgid "Before Single Product"
+msgstr "Vor Einzelartikel"
+
+#: admin/options-init.php:2210
+msgid "Before Single Product Summary"
+msgstr "Vor Einzelartikel-Zusammenfassung"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Belarus"
+msgstr "Weißrussland"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Belgium"
+msgstr "Belgien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Belize"
+msgstr "Belize"
+
+#: admin/options-init.php:933
+msgid "Below Address Fields."
+msgstr "Unterhalb der Adressfelder."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Benin"
+msgstr "Benin"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Bolivia"
+msgstr "Bolivien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnien und Herzegowina"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Botswana"
+msgstr "Botswana"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Bouvet Island"
+msgstr "Bouvet Island"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "British Antarctic Territory"
+msgstr "Britisches Antarktisgebiet"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "British Indian Ocean Territory"
+msgstr "Britisches Territorium des Indischen Ozeans"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "British Virgin Islands"
+msgstr "Britische Jungferninseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Brunei"
+msgstr "Brunei"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Burundi"
+msgstr "Burundi"
+
+#: admin/options-init.php:2169
+msgid "Button Action"
+msgstr "Button-Aktion"
+
+#: admin/options-init.php:2181
+msgid "Button custom URL"
+msgstr "Eigene URL"
+
+#: admin/options-init.php:2136
+msgid "Button Position"
+msgstr "Button-Position"
+
+#: admin/options-init.php:1101 admin/options-init.php:2128
+msgid "Button Text"
+msgstr "Button-Text"
+
+#: admin/options-init.php:1664
+msgid "Call Now"
+msgstr ""
+
+#: admin/options-init.php:1663
+msgid "Call Now Text"
+msgstr "Text für \"Jetzt anrufen\""
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Cambodia"
+msgstr "Kambodscha"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Canada"
+msgstr "Kanada"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Canton and Enderbury Islands"
+msgstr "Canton und Enderbury Islands"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Cape Verde"
+msgstr "Kap Verde"
+
+#: admin/options-init.php:1255
+msgid "Categories text"
+msgstr "Kategorietext"
+
+#: public/class-wordpress-store-locator-listing.php:421
+#: public/class-wordpress-store-locator-public.php:539
+msgid "Categories: "
+msgstr "Kategorien: "
+
+#: public/class-wordpress-store-locator-public.php:2641
+msgid "Category"
+msgstr "Kategorie"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Cayman Islands"
+msgstr "Cayman Inseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Central African Republic"
+msgstr "Zentralafrikanische Republik"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Chad"
+msgstr "Tschad"
+
+#: admin/options-init.php:775
+msgid "Chat"
+msgstr "Plaudern"
+
+#: admin/options-init.php:565
+msgid "chat"
+msgstr "Plaudern"
+
+#: admin/options-init.php:1736
+msgid "Chat Store"
+msgstr ""
+
+#: admin/class-wordpress-store-locator-post-type.php:610
+msgid "Chat URL"
+msgstr "Chat-URL"
+
+#: admin/options-init.php:541
+msgid "Check if Infowindow is closed"
+msgstr "Prüfen ob Infofenster geschlossen"
+
+#: admin/options-init.php:213
+msgid "Check this to customize the layout yourself."
+msgstr "Überprüfen Sie dies, um das Layout selbst anzupassen."
+
+#: admin/options-init.php:717
+msgid "Check this to disable the result list accordion."
+msgstr ""
+"Aktivieren Sie diese Option, um das Akkordeon der Ergebnisliste zu "
+"deaktivieren."
+
+#: admin/options-init.php:2373
+msgid "Check this to stop adding query parameters to URLs."
+msgstr ""
+"Aktivieren Sie diese Option, um das Hinzufügen von Abfrageparametern zu URLs "
+"zu beenden."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Chile"
+msgstr "Chile"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "China"
+msgstr "China"
+
+#: admin/options-init.php:647
+msgid "Choose how a result item should be shown."
+msgstr "Wählen Sie aus, wie ein Ergebniselement angezeigt werden soll."
+
+#: admin/options-init.php:901
+msgid "Choose how a Search box layout."
+msgstr "Wählen Sie aus, wie ein Suchfeldlayout aussehen soll."
+
+#: admin/options-init.php:2362
+msgid ""
+"Choose if filters should show stores matching all (AND) filter or just one "
+"filter (OR)"
+msgstr ""
+"Wählen Sie, ob Filter Speicher anzeigen sollen, die allen (UND) Filtern oder "
+"nur einem Filter (ODER) entsprechen."
+
+#: admin/options-init.php:1644
+msgid "Choose Inventory"
+msgstr ""
+
+#: admin/options-init.php:1643
+msgid "Choose Inventory Text"
+msgstr "Wählen Sie Inventartext"
+
+#: admin/options-init.php:1270
+msgid "Choose the column for each single filter."
+msgstr "Wählen Sie die Spalte für jeden einzelnen Filter."
+
+#: admin/options-init.php:1188
+msgid "Choose the columns for each container filter."
+msgstr "Wählen Sie die Spalten für jeden Containerfilter aus."
+
+#: admin/options-init.php:316
+msgid "Choose the default Map Type."
+msgstr "Standard-Kartentyp wählen."
+
+#: admin/options-init.php:349
+msgid ""
+"Choose the default Radius. The default value must be available in the radius "
+"steps above."
+msgstr ""
+"Wählen Sie den Standardradius. Der Standardwert muss in den obigen "
+"Radiusschritten verfügbar sein."
+
+#: admin/options-init.php:330
+msgid "Choose the default Zoom Level."
+msgstr "Standard-Kartenzoom wählen."
+
+#: admin/options-init.php:290
+msgid "Choose the Distance Unit."
+msgstr "Einheit für Entfernungen wählen."
+
+#: admin/options-init.php:1309
+msgid "Choose the Zoom Level when online is searched"
+msgstr "Wählen Sie die Zoomstufe, wenn online gesucht wird"
+
+#: admin/options-init.php:1126
+msgid "Choose the Zoom Level when you want to show all stores."
+msgstr "Zoomstufe wählen, wenn  alle Filialen angezeigt werden."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Christmas Island"
+msgstr "Weihnachtsinsel"
+
+#: admin/options-init.php:1001
+msgid "Cities"
+msgstr "Städte"
+
+#: admin/class-wordpress-store-locator-post-type.php:488
+msgid "City"
+msgstr "Stadt"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Cocos [Keeling] Islands"
+msgstr "Kokosinseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Colombia"
+msgstr "Kolumbien"
+
+#: public/class-wordpress-store-locator-public.php:2757
+msgid "Comment missing"
+msgstr "Kommentar fehlt"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Comoros"
+msgstr "Komoren"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Congo - Brazzaville"
+msgstr "Kongo - Brazzaville"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Congo - Kinshasa"
+msgstr "Kongo - Kinshasa"
+
+#: admin/class-wordpress-store-locator-post-type.php:358
+msgid "Contact"
+msgstr "Kontakt"
+
+#: public/class-wordpress-store-locator-listing.php:506
+#: public/class-wordpress-store-locator-public.php:626
+#: public/class-wordpress-store-locator-public.php:1865
+msgid "Contact "
+msgstr "Kontakt "
+
+#: admin/options-init.php:925 admin/options-init.php:1150
+msgid "Contact all Stores"
+msgstr "Kontaktieren Sie alle Stores"
+
+#: admin/options-init.php:1148
+msgid "Contact all Stores - Button text"
+msgstr "Alle Geschäfte kontaktieren – Schaltflächentext"
+
+#: admin/options-init.php:1162
+msgid "Contact all Stores - No Stores Text"
+msgstr "Alle Stores kontaktieren – Kein Stores-Text"
+
+#: admin/options-init.php:1155
+msgid "Contact all Stores - Shortcode"
+msgstr "Alle Stores kontaktieren – Shortcode"
+
+#: admin/options-init.php:1169
+msgid "Contact all Stores - To FIeld Name"
+msgstr "Alle Geschäfte kontaktieren – An Feldname"
+
+#: admin/options-init.php:1594
+#, fuzzy
+#| msgid "Contact dealer via a contact form on a new pag."
+msgid "Contact dealer via a contact form on a new page."
+msgstr "Filiale mittels Formular auf neuer Seite anzeigen."
+
+#: admin/options-init.php:1607
+msgid "Contact Page"
+msgstr "Kontaktseite"
+
+#: admin/options-init.php:1601
+msgid "Contact Store"
+msgstr ""
+
+#: admin/options-init.php:1600
+msgid "Contact Store Text"
+msgstr "Text für \"Filiale kontaktieren\""
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Cook Islands"
+msgstr "Cookinseln"
+
+#: admin/class-wordpress-store-locator-post-type.php:359
+msgid "Coordinates"
+msgstr "Koordinaten"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: admin/class-wordpress-store-locator-post-type.php:500
+msgid "Country"
+msgstr "Land"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Cuba"
+msgstr "Kuba"
+
+#: admin/options-init.php:2189
+msgid "Custom Button URL target"
+msgstr "Ziel der URL"
+
+#: admin/options-init.php:2414
+msgid "Custom CSS"
+msgstr "Eigenes CSS"
+
+#: admin/options-init.php:1778
+msgid "Custom Fields"
+msgstr "Benutzerdefinierte Felder"
+
+#: admin/class-wordpress-store-locator-post-type.php:247
+msgid "Custom Icon "
+msgstr "Benutzerdefiniertes Icon "
+
+#: admin/class-wordpress-store-locator-post-type.php:674
+msgid "Custom Icon (URL)"
+msgstr "Benutzerdefiniertes Icon (URL)"
+
+#: admin/options-init.php:2421
+msgid "Custom JS"
+msgstr "Eigenes JS"
+
+#: admin/options-init.php:1486
+msgid "Custom Meta Field after Address"
+msgstr "Benutzerdefiniertes Metafeld nach der Adresse"
+
+#: admin/options-init.php:2354
+msgid "Custom stylesheet / javascript."
+msgstr "Eigenes Stylesheet / Javascript."
+
+#: admin/class-wordpress-store-locator-post-type.php:667
+msgid "Customer Id"
+msgstr "Kundennummer"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Cyprus"
+msgstr "Zypern"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Czech Republic"
+msgstr "Tschechien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Côte d’Ivoire"
+msgstr "Côte d'Ivoire"
+
+#: admin/options-init.php:1392
+msgid "Data to Show"
+msgstr "Anzuzeigende Daten"
+
+#: admin/options-init.php:1393
+msgid "Data you want to show."
+msgstr "Daten, die angezeigt werden sollen."
+
+#: admin/options-init.php:2262
+msgid "Default Address 1"
+msgstr "Standard für Adresse 1"
+
+#: admin/options-init.php:2268
+msgid "Default Address 2"
+msgstr "Standard für Adresse 2"
+
+#: admin/options-init.php:2328
+msgid "Default Chat"
+msgstr "Standard-Chat"
+
+#: admin/options-init.php:2280
+msgid "Default City"
+msgstr "Standard für Stadt"
+
+#: admin/options-init.php:2346
+msgid "Default Close (Mo - Fr)"
+msgstr "Standard für Schließzeit (Mo - Fr)"
+
+#: admin/options-init.php:2292
+msgid "Default Country"
+msgstr "Standard für Land"
+
+#: admin/options-init.php:2316
+msgid "Default Email"
+msgstr "Standard für Email"
+
+#: admin/options-init.php:2310
+msgid "Default Fax"
+msgstr "Standard für Fax"
+
+#: admin/options-init.php:1220
+msgid "Default filter category"
+msgstr "Standard-Filterkategorie"
+
+#: admin/options-init.php:1179
+msgid "Default Filtering Settings"
+msgstr "Standardfiltereinstellungen"
+
+#: admin/options-init.php:301
+msgid "Default Latitude"
+msgstr "Standard-Breitengrad"
+
+#: admin/options-init.php:308
+msgid "Default Longitude"
+msgstr "Standard-Längengrad"
+
+#: admin/options-init.php:251 admin/options-init.php:622
+msgid "Default Map Settings"
+msgstr "Standard-Karten-Einstellungen"
+
+#: admin/options-init.php:315
+msgid "Default Map Type"
+msgstr "Standard-Kartentyp"
+
+#: admin/options-init.php:329
+msgid "Default Map Zoom"
+msgstr "Standard-Kartenzoom"
+
+#: admin/options-init.php:2304
+msgid "Default Mobile"
+msgstr "Standard für Handy"
+
+#: admin/options-init.php:2340
+msgid "Default Open (Mo - Fr)"
+msgstr "Standard für Öffnungszeit (Mo - Fr)"
+
+#: admin/options-init.php:348
+msgid "Default Radius"
+msgstr "Standardradius"
+
+#: admin/options-init.php:2334
+msgid "Default Ranking"
+msgstr "Standard für Ranking"
+
+#: admin/options-init.php:2286
+msgid "Default Region"
+msgstr "Standard für Region"
+
+#: admin/options-init.php:1926
+msgid "Default Single Store Page Settings"
+msgstr "Standardeinstellungen für Einzelspeicherseiten"
+
+#: admin/options-init.php:454
+msgid "Default Store Icon"
+msgstr "Standard-Filialicon"
+
+#: admin/options-init.php:461
+msgid "Default Store Icon on Hover"
+msgstr "Standard-Filialicon beim Mouseover"
+
+#: admin/options-init.php:2298
+msgid "Default Telephone"
+msgstr "Standard für Telefon"
+
+#: admin/options-init.php:468
+msgid "Default User / Home Icon"
+msgstr "Standardbenutzer- / Startsymbol"
+
+#: admin/options-init.php:2322
+msgid "Default Website"
+msgstr "Standard für Webseite"
+
+#: admin/options-init.php:2274
+msgid "Default ZIP"
+msgstr "Standard für PLZ"
+
+#: admin/options-init.php:2255
+msgid "Defaults"
+msgstr "Standardeinstellungen"
+
+#: admin/class-wordpress-store-locator-exporter.php:110
+msgid "Delete store after Export"
+msgstr "Speicher nach dem Export löschen"
+
+#: admin/class-wordpress-store-locator-exporter.php:413
+msgid "Demo Store Export is ready. The Download should start automatically."
+msgstr ""
+"Der Demo-Store-Export ist fertig. Der Download sollte automatisch starten."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Denmark"
+msgstr "Dänemark"
+
+#: admin/options-init.php:590
+msgid "Details Width (in Columns)"
+msgstr "Breite Details (in Spalten)"
+
+#: admin/options-init.php:503
+msgid "Disable Fullscreen Control"
+msgstr "Deaktivieren Sie die Vollbildsteuerung"
+
+#: admin/options-init.php:510
+msgid "Disable Map Type Control"
+msgstr "Deaktivieren Sie die Kartentypsteuerung"
+
+#: admin/options-init.php:475
+msgid "Disable Pan Control"
+msgstr "Deaktivieren Sie die Schwenksteuerung"
+
+#: admin/options-init.php:2372
+msgid "Disable Replace State"
+msgstr "Deaktivieren Sie den Ersetzungsstatus"
+
+#: admin/options-init.php:489
+msgid "Disable Scale Control"
+msgstr "Deaktivieren Sie die Skalensteuerung"
+
+#: admin/options-init.php:496
+msgid "Disable StreetView Control"
+msgstr "Deaktivieren Sie die StreetView-Steuerung"
+
+#: admin/options-init.php:360
+msgid ""
+"Disable this to disable the automatic zoom level adjustments based on radius."
+msgstr ""
+"Deaktivieren Sie diese Option, um die automatische Anpassung der Zoomstufe "
+"basierend auf dem Radius zu deaktivieren."
+
+#: admin/options-init.php:482
+msgid "Disable Zoom Control"
+msgstr "Deaktivieren Sie die Zoomsteuerung"
+
+#: admin/options-init.php:1228
+msgid "Display Category Filters as Image"
+msgstr "Kategoriefilter als Bild anzeigen"
+
+#: admin/options-init.php:864
+msgid "Display results as Slider"
+msgstr ""
+
+#: admin/options-init.php:661 admin/options-init.php:675
+#: admin/options-init.php:1574
+msgid "Distance"
+msgstr "Entfernung"
+
+#: admin/options-init.php:1573
+msgid "Distance Text"
+msgstr "Text für Entfernung"
+
+#: admin/options-init.php:289
+msgid "Distance Unit"
+msgstr "Einheit für Entfernungen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Djibouti"
+msgstr "Dschibuti"
+
+#: admin/options-init.php:2386
+msgid "Do Not load Bootstrap"
+msgstr "Bootstrap nicht laden"
+
+#: admin/options-init.php:2392
+msgid "Do Not load Font Awesome"
+msgstr "Laden Sie Font Awesome nicht"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Dominica"
+msgstr "Dominica"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Dominican Republic"
+msgstr "Dominikanische Republik"
+
+#: admin/options-init.php:359
+msgid "Draw Radius Circle"
+msgstr "Umreis-Kreis anzeigen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Dronning Maud Land"
+msgstr "Dronning Maud Land"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "East Germany"
+msgstr "Ost-Deutschland"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: admin/class-wordpress-store-locator-post-type.php:85
+#: admin/class-wordpress-store-locator-post-type.php:146
+#: admin/class-wordpress-store-locator-post-type.php:179
+#, php-format
+msgid "Edit %s"
+msgstr "Editiere %s"
+
+#: admin/options-init.php:167
+msgid ""
+"edit.php?"
+"post_type=stores&page=wordpress_store_locator_options_options&delete-"
+"stores\" class=\"button button-danger\">Delete all Stores</a> \n"
+"                    </div>"
+msgstr ""
+"edit.php?"
+"post_type=stores&page=wordpress_store_locator_options_options&delete-"
+"stores\" class=\"button button-danger\">Alle Filialen löschen</a> \n"
+"                    </div>"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Egypt"
+msgstr "Ägypten"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: admin/options-init.php:563 admin/options-init.php:773
+#: admin/class-wordpress-store-locator-post-type.php:596
+msgid "Email"
+msgstr "Email"
+
+#: public/class-wordpress-store-locator-public.php:2752
+msgid "Email missing"
+msgstr "E-Mail fehlt"
+
+#: admin/class-wordpress-store-locator-post-type.php:602
+msgid "Email Placeholder"
+msgstr "Platzhalter per E-Mail senden"
+
+#: admin/options-init.php:1513
+msgid "Email Text"
+msgstr "Text für Email"
+
+#: admin/class-wordpress-store-locator-post-type.php:398
+msgid "Email:"
+msgstr "Email:"
+
+#: admin/options-init.php:1514
+msgid "Email: "
+msgstr ""
+
+#: admin/options-init.php:948
+msgid "Empty address field by default"
+msgstr "Standardmäßig leeres Adressfeld"
+
+#: admin/options-init.php:134 admin/options-init.php:2121
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: admin/options-init.php:955
+msgid "Enable Auto Geolocation"
+msgstr "Auto-Geolocation aktivieren"
+
+#: admin/options-init.php:982
+msgid "Enable Autocomplete"
+msgstr "Autovervollständigung aktivieren"
+
+#: admin/options-init.php:535
+msgid "Enable Infowindow"
+msgstr "Infofenster aktivieren"
+
+#: admin/options-init.php:961
+msgid "Enable IP Geolocation Fallback"
+msgstr "IP-Geolocation-Fallback aktivieren"
+
+#: admin/options-init.php:2048
+msgid "Enable Live Position"
+msgstr "Live-Position aktivieren"
+
+#: admin/options-init.php:258
+msgid "Enable Map"
+msgstr "Karte aktivieren"
+
+#: admin/options-init.php:425
+msgid "Enable Marker Clusterer."
+msgstr "Aktivieren Sie den Marker Clusterer."
+
+#: admin/options-init.php:629
+msgid "Enable Result List"
+msgstr "Ergebnisliste aktivieren"
+
+#: admin/options-init.php:732
+msgid "Enable Result List Hover"
+msgstr "Mousover in Ergebnisliste aktivieren"
+
+#: admin/options-init.php:1933
+msgid "Enable Single Store Pages"
+msgstr "Aktivieren Sie einzelne Store-Seiten"
+
+#: admin/options-init.php:135
+msgid "Enable store locator."
+msgstr "Filialfinder aktivieren."
+
+#: admin/options-init.php:949
+msgid "Enable to leave the address field empty by default."
+msgstr ""
+"Aktivieren Sie diese Option, um das Adressfeld standardmäßig leer zu lassen."
+
+#: admin/options-init.php:1242
+msgid "Enable to show search filters."
+msgstr "Aktivieren Sie diese Option, um Suchfilter anzuzeigen."
+
+#: admin/options-init.php:1235
+msgid "Enable to show search Radius."
+msgstr "Aktivieren Sie diese Option, um den Suchradius anzuzeigen."
+
+#: admin/options-init.php:2122
+msgid "Enables the single product custom button."
+msgstr "Aktiviert den Einzelprodukt-Seiten Button."
+
+#: admin/options-init.php:1044
+msgid "Ener a Store name"
+msgstr "Ener einen Geschäftsnamen"
+
+#: admin/options-init.php:1385
+msgid "Enter 0 to 1. Example: 0.8"
+msgstr "Geben Sie 0 bis 1 ein. Beispiel: 0.8"
+
+#: admin/options-init.php:1487
+msgid "Enter the meta key field name here"
+msgstr "Geben Sie hier den Namen des Metaschlüsselfelds ein"
+
+#: admin/options-init.php:1029
+#: public/class-wordpress-store-locator-public.php:1590
+msgid "Enter your address"
+msgstr "Eigene Adresse eingeben"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Equatorial Guinea"
+msgstr "Äquatorialguinea"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: admin/options-init.php:1003
+msgid "Establishment"
+msgstr "Einrichtung"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Estonia"
+msgstr "Estland"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Ethiopia"
+msgstr "Äthiopien"
+
+#: admin/options-init.php:2240
+msgid "Exclude Product Categories"
+msgstr "Produktkategorien ausschließen"
+
+#: admin/class-wordpress-store-locator-exporter.php:115
+msgid "Export Stores"
+msgstr "Exportgeschäfte"
+
+#: admin/options-init.php:410
+msgid "Extend map radius."
+msgstr "Karten-Umkreis erweitern."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Falkland Islands"
+msgstr "Falkland Inseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Faroe Islands"
+msgstr "Färöer Inseln"
+
+#: admin/class-wordpress-store-locator-post-type.php:589
+msgid "Fax"
+msgstr "Fax"
+
+#: admin/options-init.php:1560
+msgid "Fax Text"
+msgstr "Text für Fax"
+
+#: admin/options-init.php:1561
+msgid "Fax: "
+msgstr ""
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Fiji"
+msgstr "Fidschi"
+
+#: admin/options-init.php:1178 admin/options-init.php:1250
+msgid "Filter"
+msgstr "Filter"
+
+#: admin/options-init.php:1187
+msgid "Filter Columns"
+msgstr "Spalten filtern"
+
+#: admin/options-init.php:2361
+msgid "Filter Query Operator"
+msgstr "Filterabfrageoperator"
+
+#: admin/options-init.php:1248
+msgid "Filter text"
+msgstr ""
+
+#: admin/options-init.php:1214
+msgid "Filtering open by default"
+msgstr "Filterung standardmäßig geöffnet"
+
+#: admin/options-init.php:920
+msgid "Filters"
+msgstr "Filter"
+
+#: admin/options-init.php:1103
+msgid "Find in Store"
+msgstr "Im Laden finden"
+
+#: admin/options-init.php:1990
+msgid "Find on Map"
+msgstr ""
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Finland"
+msgstr "Finnland"
+
+#: admin/options-init.php:2207
+msgid "Footer"
+msgstr "Footer"
+
+#: admin/options-init.php:1521
+msgid ""
+"For each store you can set a email placeholder text. So instead of "
+"support@asd.de it will use the placeholder value instead."
+msgstr ""
+"Für jedes Geschäft können Sie einen E-Mail-Platzhaltertext festlegen. "
+"Anstelle von support@asd.de wird stattdessen der Platzhalterwert verwendet."
+
+#: admin/options-init.php:906
+msgid "Four Columns"
+msgstr ""
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "France"
+msgstr "Frankreich"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "French Guiana"
+msgstr "Französisch-Guayana"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "French Polynesia"
+msgstr "Französisch Polynesien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "French Southern and Antarctic Territories"
+msgstr "Französische Süd- und Antarktisgebiete"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "French Southern Territories"
+msgstr "Südfranzösische Territorien"
+
+#: admin/options-init.php:1834 admin/options-init.php:1904
+#: public/class-wordpress-store-locator-listing.php:554
+#: public/class-wordpress-store-locator-public.php:679
+#: public/class-wordpress-store-locator-public.php:1896
+msgid "Friday"
+msgstr "Freitag"
+
+#: admin/options-init.php:1833 admin/options-init.php:1903
+msgid "Friday Text"
+msgstr "Freitag Text"
+
+#: public/class-wordpress-store-locator-public.php:1453
+msgid "From"
+msgstr "Aus"
+
+#: admin/options-init.php:282
+msgid "Full Height Map"
+msgstr "Karte in voller Höhe"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Gabon"
+msgstr "Gabun"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Gambia"
+msgstr "Gambia"
+
+#: admin/options-init.php:126
+msgid "General"
+msgstr "Allgemein"
+
+#: admin/options-init.php:999
+msgid "Geocode"
+msgstr "Geocode"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Georgia"
+msgstr "Georgia"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Germany"
+msgstr "Deutschland"
+
+#: admin/options-init.php:938
+msgid "Get All Stores"
+msgstr "Holen Sie sich alle Geschäfte"
+
+#: admin/options-init.php:1109
+msgid "Get All Stores Keep Filter"
+msgstr "Holen Sie sich alle Geschäfte Filter behalten"
+
+#: admin/options-init.php:1135
+msgid "Get All Stores Latitude"
+msgstr "Holen Sie sich alle Stores Latitude"
+
+#: admin/options-init.php:1141
+msgid "Get All Stores Longitude"
+msgstr "Holen Sie sich alle Geschäfte Längengrad"
+
+#: admin/options-init.php:1117
+msgid "Get All Stores Text"
+msgstr "Text für alle Geschäfte abrufen"
+
+#: admin/options-init.php:1125
+msgid "Get All Stores Zoom Level"
+msgstr "Holen Sie sich alle Geschäfte Zoomstufe"
+
+#: admin/options-init.php:1623
+msgid "Get Directions"
+msgstr ""
+
+#: admin/options-init.php:1622
+msgid "Get Directions Text"
+msgstr "Wegbeschreibungstext abrufen"
+
+#: admin/options-init.php:1087
+msgid "Get my Position"
+msgstr "Verwende meine aktuelle Adresse"
+
+#: admin/options-init.php:1086
+msgid "Get my position link text."
+msgstr "Holen Sie sich meinen Positionslink-Text."
+
+#: admin/options-init.php:1085
+msgid "Get my Position Text"
+msgstr "Holen Sie sich meinen Positionstext"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Ghana"
+msgstr "Ghana"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: admin/options-init.php:2173
+msgid "Go to custom URL"
+msgstr "Gehe zu URL"
+
+#: admin/options-init.php:141
+msgid "Google Api Key"
+msgstr "Google Api Key"
+
+#: admin/options-init.php:147
+msgid "Google Api Key (Server Side)"
+msgstr "Google Api Key (Server Side)"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Greece"
+msgstr "Griechenland"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Greenland"
+msgstr "Grönland"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Grenada"
+msgstr "Grenada"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Guam"
+msgstr "Guam"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Guinea"
+msgstr "Guinea"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Guyana"
+msgstr "Guyana"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Haiti"
+msgstr "Haiti"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Heard Island and McDonald Islands"
+msgstr "Heard Island und McDonald Islands"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Honduras"
+msgstr "Honduras"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Hong Kong SAR China"
+msgstr "Sonderverwaltungszone Hongkong China"
+
+#: admin/options-init.php:636
+msgid "How many stores per row."
+msgstr "Wie viele Geschäfte pro Zeile."
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"
+
+#. URI of the plugin
+msgid "https://www.welaunch.io/en/product/wordpress-store-locator/"
+msgstr "https://www.welaunch.io/en/product/wordpress-store-locator/"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: admin/options-init.php:320
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Iceland"
+msgstr "Island"
+
+#: admin/options-init.php:161
+msgid ""
+"If you can not work with xlsx (Excel 2007 and higher) files, check this. You "
+"then can work with normal .xls files."
+msgstr ""
+"Aktivieren, falls xlsx nicht möglich ist (Excel 2007 und höher). Dann werden "
+"normale xls-Dateien verwendet."
+
+#: admin/options-init.php:1756
+msgid "Image Dimensions"
+msgstr "Bild-Maße"
+
+#: admin/options-init.php:1766
+msgid "Image Position"
+msgstr "Bild-Position"
+
+#: admin/options-init.php:1748
+msgid "Image Size (thumbnail, medium, large or full)"
+msgstr "Bildgröße (Miniaturansicht, mittel, groß oder voll)"
+
+#: admin/options-init.php:600
+msgid "Image Width (in Columns)"
+msgstr "Bildbreite (in Spalten)"
+
+#: admin/options-init.php:2211
+msgid "In Single Product Summary"
+msgstr "In Einzelartikel-Zusammenfassung"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "India"
+msgstr "Indien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: admin/options-init.php:527
+msgid "Infowindow "
+msgstr "Infofenster "
+
+#: admin/class-wordpress-store-locator-post-type.php:284
+msgid "Input Type "
+msgstr "Eingabetyp"
+
+#: admin/options-init.php:2248
+msgid "Instead of exclusion it will include."
+msgstr "Statt Ausschluss wird es Einschluss geben."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Iran"
+msgstr "Iran"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Iraq"
+msgstr "Irak"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Ireland"
+msgstr "Irland"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Isle of Man"
+msgstr "Isle of Man"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Israel"
+msgstr "Israel"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Italy"
+msgstr "Italien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Japan"
+msgstr "Japan"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Jersey"
+msgstr "Jersey"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Johnston Island"
+msgstr "Johnston Island"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Jordan"
+msgstr "Jordanien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Kazakhstan"
+msgstr "Kasachstan"
+
+#: admin/options-init.php:1110
+msgid "Keep category + filters when clicking on get all stores."
+msgstr ""
+"Behalten Sie Kategorie + Filter bei, wenn Sie auf Alle Geschäfte abrufen "
+"klicken."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Kenya"
+msgstr "Kenia"
+
+#: admin/options-init.php:292
+msgid "Kilometer (KM)"
+msgstr "Kilometer (km)"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Laos"
+msgstr "Laos"
+
+#: admin/options-init.php:2228
+msgid "Large"
+msgstr "Groß"
+
+#: admin/class-wordpress-store-locator-post-type.php:269
+msgid "Lat"
+msgstr "Lat"
+
+#: admin/class-wordpress-store-locator-post-type.php:406
+msgid "Lat:"
+msgstr "Lat:"
+
+#: admin/class-wordpress-store-locator-post-type.php:524
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Latvia"
+msgstr "Lettland"
+
+#: admin/options-init.php:179
+msgid "Layout"
+msgstr "Layout"
+
+#: admin/options-init.php:1629 admin/options-init.php:1650
+msgid "Leave source address empty in Google Maps."
+msgstr "Startpunkt in Google Maps leer lassen."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: admin/options-init.php:1769
+msgid "Left"
+msgstr "Links"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Liberia"
+msgstr "Liberia"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Libya"
+msgstr "Libyen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: admin/options-init.php:1413
+msgid "Link Rating Icons to Single Store Rating Form"
+msgstr ""
+"Verknüpfen Sie Bewertungssymbole mit dem Bewertungsformular für einzelne "
+"Geschäfte"
+
+#: admin/class-wordpress-store-locator-post-type.php:235
+msgid "Link to Product Category "
+msgstr "Link zu Produktkategorie "
+
+#: admin/class-wordpress-store-locator-post-type.php:244
+msgid "Link to Product Industry "
+msgstr "Link zur Produktindustrie"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: admin/options-init.php:2064
+msgid "Live Location"
+msgstr "Live-Standort"
+
+#: admin/options-init.php:2063
+msgid "Live Position - Button Text"
+msgstr "Live-Position – Schaltflächentext"
+
+#: admin/options-init.php:2070
+msgid "Live Position - Hide Map Headline when Live data Empty"
+msgstr ""
+"Live-Position – Kartenüberschrift ausblenden, wenn die Live-Daten leer sind"
+
+#: admin/options-init.php:2056
+msgid "Live Position Result List & Infowindow Button"
+msgstr "Live-Positionsergebnisliste und Infofenster-Schaltfläche"
+
+#: admin/options-init.php:2094
+msgid "Live Position Store Icon"
+msgstr "Symbol für den Live-Positionsspeicher"
+
+#: admin/options-init.php:2078
+msgid "Live Positon Lat Field"
+msgstr "Live-Positions-Lat-Feld"
+
+#: admin/options-init.php:2086
+msgid "Live Positon Lng Field"
+msgstr "Live-Positions-LNG-Feld"
+
+#: admin/class-wordpress-store-locator-post-type.php:270
+msgid "Lng"
+msgstr "Lng"
+
+#: admin/class-wordpress-store-locator-post-type.php:407
+msgid "Lng:"
+msgstr "Lng:"
+
+#: admin/options-init.php:1331
+msgid "Loading"
+msgstr "Ladeanzeige"
+
+#: admin/options-init.php:1345
+msgid "Loading Animation"
+msgstr "Lade-Animation"
+
+#: admin/options-init.php:1339
+msgid "Loading Icon"
+msgstr "Lade-Icon"
+
+#: admin/options-init.php:1370
+msgid "Loading Icon Color"
+msgstr "Farbe Lade-Icon"
+
+#: admin/options-init.php:1356
+msgid "Loading Icon Size"
+msgstr "Größe Lade-Icon"
+
+#: admin/options-init.php:1332
+msgid "Loading Settings"
+msgstr "Ladeanzeige-Einstellungen"
+
+#: admin/options-init.php:1303
+msgid "Local Retailer"
+msgstr "Lokaler Einzelhändler"
+
+#: admin/class-wordpress-store-locator-post-type.php:529
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Macau SAR China"
+msgstr "Macau SAR China"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Macedonia"
+msgstr "Mazedonien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: admin/options-init.php:1608
+msgid ""
+"Make sure a form is embedded on the site. A tutorial how to create a form "
+"can be found here."
+msgstr ""
+"Stellen Sie sicher, dass ein Formular in die Site eingebettet ist. Ein "
+"Tutorial zum Erstellen eines Formulars finden Sie hier."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Malawi"
+msgstr "Malawi"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Maldives"
+msgstr "Malediven"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Mali"
+msgstr "Mali"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Malta"
+msgstr "Malta"
+
+#: admin/options-init.php:250
+msgid "Map"
+msgstr "Karte"
+
+#: admin/options-init.php:2034
+msgid "Map - Disable Fullscreen Control"
+msgstr "Karte – Vollbildsteuerung deaktivieren"
+
+#: admin/options-init.php:2041
+msgid "Map - Disable Map Type Control"
+msgstr "Karte – Deaktivieren Sie die Kartentypsteuerung"
+
+#: admin/options-init.php:2006
+msgid "Map - Disable Pan Control"
+msgstr "Karte – Schwenksteuerung deaktivieren"
+
+#: admin/options-init.php:2020
+msgid "Map - Disable Scale Control"
+msgstr "Karte – Maßstabssteuerung deaktivieren"
+
+#: admin/options-init.php:2027
+msgid "Map - Disable StreetView Control"
+msgstr "Karte – StreetView-Steuerung deaktivieren"
+
+#: admin/options-init.php:2013
+msgid "Map - Disable Zoom Control"
+msgstr "Karte – Zoomsteuerung deaktivieren"
+
+#: admin/options-init.php:264
+msgid "Map Auto Height"
+msgstr "Map Auto Height"
+
+#: admin/options-init.php:1989
+msgid "Map Headline"
+msgstr "Kartenüberschrift"
+
+#: admin/options-init.php:271
+msgid "Map Height"
+msgstr "Kartenhöhe"
+
+#: admin/options-init.php:518
+msgid "Map Styling (JSON format)"
+msgstr "Kartenstil (JSON-Format)"
+
+#: admin/options-init.php:239
+msgid "Map Width (in Columns)"
+msgstr "Kartenbreite (in Spalten)"
+
+#: admin/options-init.php:1996
+msgid "Map Zoom"
+msgstr "Kartenzoom"
+
+#: admin/options-init.php:528
+msgid "Maps Infowindow settings"
+msgstr "Einstellungen Karten-Infowindow"
+
+#: admin/options-init.php:433
+msgid "Marker Cluster Max Zoom Level"
+msgstr "Maximale Zoomstufe des Markierungsclusters"
+
+#: admin/options-init.php:443
+msgid "Marker Cluster Size"
+msgstr "Größe des Markerclusters"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Marshall Islands"
+msgstr "Marshallinseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Martinique"
+msgstr "Martinique"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: admin/options-init.php:746
+msgid "Maximum Results"
+msgstr "Obergrenze Ergebnisse"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Metropolitan France"
+msgstr "Metropole Frankreich"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Micronesia"
+msgstr "Mikronesien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Midway Islands"
+msgstr "Midway Islands"
+
+#: admin/options-init.php:293
+msgid "Miles"
+msgstr "Meilen"
+
+#: admin/options-init.php:756
+msgid "Minimum Results"
+msgstr "Mindestergebnisse"
+
+#: admin/class-wordpress-store-locator-post-type.php:576
+msgid "Mobile"
+msgstr "Handy"
+
+#: admin/options-init.php:1547
+msgid "Mobile Text"
+msgstr "Text für Handy"
+
+#: admin/class-wordpress-store-locator-post-type.php:397
+msgid "Mobile:"
+msgstr "Handy:"
+
+#: admin/options-init.php:1548
+msgid "Mobile: "
+msgstr ""
+
+#: admin/options-init.php:2203
+msgid "Modal Code Position"
+msgstr "Modal Code Position"
+
+#: admin/options-init.php:2223
+msgid "Modal size"
+msgstr "Größe des Pop-Up-Fensters"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Moldova"
+msgstr "Moldawien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Monaco"
+msgstr "Monaco"
+
+#: admin/options-init.php:1876
+#: public/class-wordpress-store-locator-listing.php:550
+#: public/class-wordpress-store-locator-public.php:675
+#: public/class-wordpress-store-locator-public.php:1892
+msgid "Monday"
+msgstr "Montag"
+
+#: admin/options-init.php:1805 admin/options-init.php:1875
+msgid "Monday Text"
+msgstr "Montag Text"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Mongolia"
+msgstr "Mongolei"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Morocco"
+msgstr "Marokko"
+
+#: admin/options-init.php:1974
+msgid "Move Rating form to Bottom"
+msgstr "Bewertungsformular nach unten verschieben"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Mozambique"
+msgstr "Mosambik"
+
+#: admin/options-init.php:936
+msgid "My Position"
+msgstr "Meine Position"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Myanmar [Burma]"
+msgstr "Myanmar (Burma]"
+
+#: public/class-wordpress-store-locator-public.php:2747
+msgid "Name missing"
+msgstr "Name fehlt"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Namibia"
+msgstr "Namibia"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Nauru"
+msgstr "Nauru"
+
+#: public/class-wordpress-store-locator-public.php:1635
+msgid "Nearest Store: "
+msgstr "Nächstgelegener Standort: "
+
+#: admin/options-init.php:121
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+"Brauchen Sie Hilfe? Dann schildern Sie uns bitte Ihr Problem auf Codecanyon."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Nepal"
+msgstr "Nepal"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Netherlands"
+msgstr "Niederlande"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Netherlands Antilles"
+msgstr "Niederländische Antillen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Neutral Zone"
+msgstr "Neutrale Zone"
+
+#: admin/class-wordpress-store-locator-post-type.php:83
+#: admin/class-wordpress-store-locator-post-type.php:86
+#, php-format
+msgid "New %s"
+msgstr "Neue %s"
+
+#: admin/class-wordpress-store-locator-post-type.php:149
+#: admin/class-wordpress-store-locator-post-type.php:182
+#, php-format
+msgid "New %s Name"
+msgstr "Neuer %s Name"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "New Caledonia"
+msgstr "Neu-Kaledonien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Niger"
+msgstr "Niger"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Niue"
+msgstr "Niue"
+
+#: admin/class-wordpress-store-locator-post-type.php:89
+#, php-format
+msgid "No %s found"
+msgstr "Keine %s gefunden"
+
+#: admin/class-wordpress-store-locator-post-type.php:90
+#, php-format
+msgid "No %s found in trash"
+msgstr "Keine %s im Papierkorb gefunden"
+
+#: admin/options-init.php:142
+msgid ""
+"No key? <a href=\"https://console.developers.google.com/flows/enableapi?"
+"apiid=maps_backend&keyType=CLIENT_SIDE&reusekey=true\" target=\"_blank\">Get "
+"it now!</a>"
+msgstr ""
+"Kein Key? <a href=\"https://console.developers.google.com/flows/enableapi?"
+"apiid=maps_backend&keyType=CLIENT_SIDE&reusekey=true\" target=\"_blank\">"
+"Jetzt holen!</a>"
+
+#: admin/options-init.php:739
+msgid "No Results Text"
+msgstr "Text bei keinen Ergebnissen"
+
+#: public/class-wordpress-store-locator-listing.php:128
+msgid "No stores found"
+msgstr "Keine Geschäfte gefunden"
+
+#: admin/class-wordpress-store-locator-exporter.php:134
+msgid "No Stores to Export"
+msgstr "Keine Geschäfte zum Exportieren"
+
+#: admin/options-init.php:564 admin/options-init.php:774
+msgid "None"
+msgstr "Nichts"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Norfolk Island"
+msgstr "Norfolkinsel"
+
+#: admin/options-init.php:2226
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "North Korea"
+msgstr "Nord Korea"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "North Vietnam"
+msgstr "Nordvietnam"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Northern Mariana Islands"
+msgstr "Nördliche Marianneninseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Norway"
+msgstr "Norwegen"
+
+#: admin/options-init.php:1799 admin/options-init.php:1869
+msgid "o'Clock"
+msgstr ""
+
+#: admin/class-wordpress-store-locator-post-type.php:654
+msgid "Offline Store"
+msgstr "Offline-Shop"
+
+#: admin/options-init.php:1301
+msgid "Offline Store Text"
+msgstr "Offline-Shop-Text"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Oman"
+msgstr "Oman"
+
+#: admin/options-init.php:649 admin/options-init.php:903
+#: admin/options-init.php:1190 admin/options-init.php:1272
+msgid "One Column"
+msgstr "Eine Spalte"
+
+#: admin/options-init.php:1287
+msgid "Online / Offline All Text"
+msgstr "Alle Texte online/offline"
+
+#: admin/options-init.php:1207
+msgid "Online / Offline Stores"
+msgstr "Online-/Offline-Shops"
+
+#: admin/options-init.php:1318
+msgid "Online Filter Latitude"
+msgstr "Online-Filter Latitude"
+
+#: admin/options-init.php:1324
+msgid "Online Filter Longitude"
+msgstr "Online-Filter Längengrad"
+
+#: admin/options-init.php:1308
+msgid "Online Filter Zoom Level"
+msgstr "Online-Filter-Zoomstufe"
+
+#: admin/options-init.php:1296
+#: admin/class-wordpress-store-locator-post-type.php:650
+msgid "Online Store"
+msgstr "Online-Shop"
+
+#: admin/options-init.php:1294
+msgid "Online Store Text"
+msgstr "Online-Shop-Text"
+
+#: admin/options-init.php:549
+msgid "Open Infowindow on Mouseover"
+msgstr "Infofenster bei Mouseover öffnen"
+
+#: admin/options-init.php:573 admin/options-init.php:783
+msgid "Open Store Link Action in new Tab"
+msgstr "Aktion für Filiallink in neuem Fenster"
+
+#: admin/options-init.php:2172
+msgid "Open Store Locator Modal"
+msgstr "Store Locator als Modaldialog öffnen"
+
+#: admin/options-init.php:550
+msgid "Open the infowindow when a user hover over the marker."
+msgstr "Infofenster öffnnen, wenn der Nutzer auf einen Marker zeigt."
+
+#: admin/options-init.php:1792 admin/options-init.php:1862
+msgid "Opening Hours"
+msgstr ""
+
+#: admin/options-init.php:1798 admin/options-init.php:1868
+msgid "Opening Hours Clock"
+msgstr "Text Öffnungszeiten \"Uhr\""
+
+#: admin/options-init.php:1791 admin/options-init.php:1861
+msgid "Opening Hours Text"
+msgstr "Öffnungszeiten Text"
+
+#: admin/options-init.php:610
+msgid "Opening Hours Width (in Columns)"
+msgstr "Breite Öffnungszeiten (in Spalten)"
+
+#: admin/options-init.php:2365
+msgid "OR"
+msgstr "ODER"
+
+#: admin/options-init.php:1377
+msgid "Overlay Color"
+msgstr "Overly-Farbe"
+
+#: admin/options-init.php:1384
+msgid "Overlay Transparency"
+msgstr "Overlay-Transparenz"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Pacific Islands Trust Territory"
+msgstr "Pacific Islands Trust Territory"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Palau"
+msgstr "Palau"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Palestinian Territories"
+msgstr "Palästinensische Gebiete"
+
+#: admin/options-init.php:418
+msgid "Pan to Marker on Mouse Hover."
+msgstr "Beim Mouseover zum Marker schwenken."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Panama"
+msgstr "Panama"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Panama Canal Zone"
+msgstr "Panamakanal-Zone"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Papua New Guinea"
+msgstr "Papua Neu-Guinea"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: admin/class-wordpress-store-locator-post-type.php:144
+#: admin/class-wordpress-store-locator-post-type.php:177
+#, php-format
+msgid "Parent %s"
+msgstr "Übergeordnetes %s"
+
+#: admin/class-wordpress-store-locator-post-type.php:145
+#: admin/class-wordpress-store-locator-post-type.php:178
+#, php-format
+msgid "Parent %s:"
+msgstr "Übergeordnetes %s:"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "People's Democratic Republic of Yemen"
+msgstr "Demokratische Volksrepublik Jemen"
+
+#: admin/options-init.php:2398
+msgid "Performance (Render only on these pages)"
+msgstr "Leistung (Nur auf diesen Seiten rendern)"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Peru"
+msgstr "Peru"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Philippines"
+msgstr "Philippinen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Pitcairn Islands"
+msgstr "Pitcairninseln"
+
+#: admin/options-init.php:1164
+msgid "Please search for stores first"
+msgstr "Bitte suchen Sie zuerst nach Geschäften"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Poland"
+msgstr "Polen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Portugal"
+msgstr "Portugal"
+
+#: admin/class-wordpress-store-locator-post-type.php:646
+msgid "Premium Store"
+msgstr "Premium-Filiale"
+
+#: admin/options-init.php:663 admin/options-init.php:677
+msgid "Premium Stores First"
+msgstr "Premium-Filialen zuerst"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: admin/options-init.php:1156
+msgid ""
+"Put your form shortcode in. In your form should be a input field with the "
+"name \"email_tos\"."
+msgstr ""
+"Geben Sie Ihren Formular-Shortcode ein. In Ihrem Formular sollte ein "
+"Eingabefeld mit dem Namen „email_tos“ vorhanden sein."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Qatar"
+msgstr "Katar"
+
+#: admin/class-wordpress-store-locator-post-type.php:268
+msgid "Query Operator "
+msgstr "Abfrageoperator"
+
+#: admin/options-init.php:367
+msgid "Radius Circle Fill Color"
+msgstr "Füllfarbe des Radiuskreises"
+
+#: admin/options-init.php:375
+msgid "Radius Circle Fill Opacity"
+msgstr "Deckkraft der Radiuskreisfüllung"
+
+#: admin/options-init.php:385
+msgid "Radius Circle Stroke Color"
+msgstr "Radius-Kreis-Strichfarbe"
+
+#: admin/options-init.php:393
+msgid "Radius Circle Stroke Opacity"
+msgstr "Deckkraft des Radiuskreisstrichs"
+
+#: admin/options-init.php:1202
+msgid "Radius Filter"
+msgstr "Radiusfilter"
+
+#: admin/options-init.php:340
+msgid "Radius Select Steps"
+msgstr "Umkreis-Auswahlstufen"
+
+#: admin/options-init.php:1262
+msgid "Radius text"
+msgstr "Radius Text"
+
+#: admin/options-init.php:665 admin/options-init.php:679
+msgid "Random"
+msgstr "Zufällig"
+
+#: admin/class-wordpress-store-locator-post-type.php:662
+msgid "Ranking"
+msgstr "Ranking"
+
+#: public/class-wordpress-store-locator-public.php:2762
+msgid "Rating missing"
+msgstr "Bewertung fehlt"
+
+#: admin/options-init.php:1000
+msgid "Regions"
+msgstr "Regionen"
+
+#: admin/options-init.php:1094
+msgid "Reset all Filters"
+msgstr "Alle Filter zurücksetzen"
+
+#: admin/options-init.php:937
+#: admin/class-wordpress-store-locator-post-type.php:272
+msgid "Reset Filters"
+msgstr "Filter zurücksetzen"
+
+#: admin/options-init.php:1093
+msgid "Reset Filters link text."
+msgstr "Linktext „Filter zurücksetzen“."
+
+#: admin/options-init.php:1092
+msgid "Reset Filters Text"
+msgstr "Filtertext zurücksetzen"
+
+#: admin/options-init.php:1011
+msgid "Restrict Autocomplete to a country"
+msgstr "Autovervollständigung auf Land beschränken"
+
+#: admin/options-init.php:996
+msgid "Restrict Types"
+msgstr "Typen einschränken"
+
+#: admin/options-init.php:621
+msgid "Result List"
+msgstr "Ergebnisliste"
+
+#: admin/options-init.php:725
+msgid "Result list Auto Height"
+msgstr "Ergebnisliste Auto Height"
+
+#: admin/options-init.php:797
+msgid "Result List Icon"
+msgstr "Ergebnislisten-Icon"
+
+#: admin/options-init.php:819
+msgid "Result List Icon Color"
+msgstr "Farbe Ergebnislisten-Icon"
+
+#: admin/options-init.php:804
+msgid "Result List Icon Size"
+msgstr "Größe Ergebnislisten-Icon"
+
+#: admin/options-init.php:635
+msgid "Result list Item Columns"
+msgstr "Ergebnisliste Elementspalten"
+
+#: admin/options-init.php:646
+msgid "Result list item content layout"
+msgstr ""
+
+#: admin/options-init.php:716
+msgid "Result List open by default"
+msgstr "Die Ergebnisliste ist standardmäßig geöffnet"
+
+#: admin/options-init.php:834
+msgid "Result List Premium Icon"
+msgstr "Premium-Icon Ergebnisliste"
+
+#: admin/options-init.php:856
+msgid "Result List Premium Icon Color"
+msgstr "Farbe Premium-Icon Ergebnisliste"
+
+#: admin/options-init.php:841
+msgid "Result List Premium Icon Size"
+msgstr "Größe Premium-Icon Ergebnisliste"
+
+#: admin/options-init.php:229
+msgid "Result List Width (in Columns)"
+msgstr "Ergebnislistenbreite (in Spalten)"
+
+#: admin/options-init.php:710
+msgid "Results"
+msgstr "Ergebnisse"
+
+#: admin/options-init.php:709
+msgid "Results Title"
+msgstr "Ergebnistitel"
+
+#: admin/options-init.php:2247
+msgid "Revert Categories Exclusion"
+msgstr "Kategorienausschluss rückgängig machen"
+
+#: public/class-wordpress-store-locator-listing.php:666
+#: public/class-wordpress-store-locator-public.php:775
+msgid "Review Store"
+msgstr "Review Store"
+
+#: public/class-wordpress-store-locator-listing.php:741
+#: public/class-wordpress-store-locator-public.php:850
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: admin/options-init.php:1770
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/options-init.php:318
+msgid "Roadmap"
+msgstr "Straßenkarte"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Romania"
+msgstr "Rumänien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Russia"
+msgstr "Russland"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Réunion"
+msgstr "Wiedervereinigung"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Saint Barthélemy"
+msgstr "Saint Barthélemy"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Saint Helena"
+msgstr "Heilige Helena"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Saint Kitts and Nevis"
+msgstr "St. Kitts und Nevis"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Saint Lucia"
+msgstr "St. Lucia"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Saint Martin"
+msgstr "Sankt Martin"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre und Miquelon"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Saint Vincent and the Grenadines"
+msgstr "St. Vincent und die Grenadinen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Samoa"
+msgstr "Samoa"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "San Marino"
+msgstr "San Marino"
+
+#: admin/options-init.php:319
+msgid "Satellite"
+msgstr "Satellitenkarte"
+
+#: admin/options-init.php:1841 admin/options-init.php:1911
+#: public/class-wordpress-store-locator-listing.php:555
+#: public/class-wordpress-store-locator-public.php:680
+#: public/class-wordpress-store-locator-public.php:1897
+msgid "Saturday"
+msgstr "Samstag"
+
+#: admin/options-init.php:1840 admin/options-init.php:1910
+msgid "Saturday Text"
+msgstr "Samstag Text"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabien"
+
+#: admin/options-init.php:968
+msgid "Save Auto Geolocation in Cookie?"
+msgstr "Auto-Geolocation in Cookie speichern?"
+
+#: admin/options-init.php:687
+msgid "Scroll to Result List Item on Marker hover"
+msgstr ""
+"Scrollen Sie zum Ergebnislistenelement, wenn Sie den Mauszeiger über die "
+"Markierung bewegen"
+
+#: admin/options-init.php:1059
+msgid "Search"
+msgstr "Suchen"
+
+#: admin/class-wordpress-store-locator-post-type.php:88
+#: admin/class-wordpress-store-locator-post-type.php:142
+#: admin/class-wordpress-store-locator-post-type.php:175
+#, php-format
+msgid "Search %s"
+msgstr "Suche %s"
+
+#: admin/options-init.php:1052
+msgid "Search Along Route"
+msgstr "Entlang der Route suchen"
+
+#: admin/options-init.php:892
+msgid "Search Box"
+msgstr "Suchfeld"
+
+#: admin/options-init.php:913
+msgid "Search Box Fields."
+msgstr "Suchfeldfelder."
+
+#: admin/options-init.php:893
+msgid "Search Box Settings"
+msgstr "Suchfeld-Einstellungen"
+
+#: admin/options-init.php:219
+msgid "Search Box Width (in Columns)"
+msgstr "Suchfeldbreite (in Spalten)"
+
+#: admin/options-init.php:919
+msgid "Search Button"
+msgstr "Suchschaltfläche"
+
+#: admin/options-init.php:1036
+msgid "Search by Store Name label text."
+msgstr "Suche nach Store Name Label Text."
+
+#: admin/options-init.php:1042
+msgid "Search by Store Name Placeholder"
+msgstr "Suche nach Geschäftsname Platzhalter"
+
+#: admin/options-init.php:1043
+msgid "Search by Store Name placeholder text."
+msgstr "Suche nach Platzhaltertext für den Filialnamen."
+
+#: admin/options-init.php:1035
+msgid "Search by Store Name Text"
+msgstr "Suche nach Store Name Text"
+
+#: public/class-wordpress-store-locator-public.php:1550
+msgid "Search in this Area"
+msgstr "In diesem Gebiet suchen"
+
+#: admin/options-init.php:900
+msgid "Search Layout"
+msgstr "Suchlayout"
+
+#: public/class-wordpress-store-locator-public.php:2417
+#: public/class-wordpress-store-locator-public.php:2702
+#, php-format
+msgid "Select %s"
+msgstr "%s wählen"
+
+#: public/class-wordpress-store-locator-public.php:2259
+#: public/class-wordpress-store-locator-public.php:2643
+msgid "Select a Category"
+msgstr "Wähle eine Kategorie"
+
+#: admin/options-init.php:188
+msgid ""
+"Select a general layout. Under advanced settings you can cusotmize the "
+"layout on an advanced level."
+msgstr ""
+"Wählen Sie ein allgemeines Layout. Unter erweiterten Einstellungen können "
+"Sie das Layout auf einer erweiterten Ebene anpassen."
+
+#: admin/options-init.php:988
+msgid "Select first autocomplete result on Enter"
+msgstr ""
+"Wählen Sie bei der Eingabe das erste Ergebnis der automatischen "
+"Vervollständigung aus"
+
+#: admin/options-init.php:187
+msgid "Select Layout"
+msgstr "Wählen Sie Layout"
+
+#: public/class-wordpress-store-locator-public.php:199
+msgid "Select Store"
+msgstr "Standort wählen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Senegal"
+msgstr "Senegal"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Serbia"
+msgstr "Serbien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Serbia and Montenegro"
+msgstr "Serbien und Montenegro"
+
+#: admin/options-init.php:1221
+msgid "Set a default filter category"
+msgstr "Standard-Filterkategorie setzen"
+
+#: admin/options-init.php:272
+msgid "Set a map height."
+msgstr "Stellen Sie eine Kartenhöhe ein."
+
+#: admin/options-init.php:59
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Seychelles"
+msgstr "Seychellen"
+
+#: admin/options-init.php:702
+msgid "Show a Results title"
+msgstr "Zeigt einen Ergebnistitel an"
+
+#: admin/options-init.php:975
+msgid "Show alert when User has disabled Geolocation"
+msgstr ""
+"Benachrichtigung anzeigen, wenn der Benutzer die Geolokalisierung "
+"deaktiviert hat"
+
+#: admin/options-init.php:1119
+msgid "Show all Stores"
+msgstr "Alle Filialen anzeigen"
+
+#: admin/options-init.php:757
+msgid ""
+"Show at least X stores. 0 means disabled and it will show no results found "
+"message."
+msgstr ""
+"Mindestens X Filialen anzeigen. 0 bedeutet deaktiviert und es wird die "
+"Meldung „Keine Ergebnisse gefunden“ angezeigt."
+
+#: admin/options-init.php:1657
+msgid "Show Call Now Button"
+msgstr "\"Jetzt anrufen\"-Button anzeigen"
+
+#: admin/options-init.php:1729
+msgid "Show Chat Button"
+msgstr "Chat-Schaltfläche anzeigen"
+
+#: admin/options-init.php:1735
+msgid "Show Chat Store Text"
+msgstr "Chat-Store-Text anzeigen"
+
+#: admin/options-init.php:1636
+msgid "Show Choose Inventory "
+msgstr "„Inventar auswählen“ anzeigen"
+
+#: admin/options-init.php:1458
+msgid "Show City"
+msgstr "Stadt anzeigen"
+
+#: admin/options-init.php:1593 admin/options-init.php:1960
+msgid "Show Contact Store"
+msgstr "\"Filiale kontaktieren\" anzeigen"
+
+#: admin/options-init.php:1470
+msgid "Show Country"
+msgstr "Land anzeigen"
+
+#: admin/options-init.php:1426
+msgid "Show Description"
+msgstr "Beschreibung anzeigen"
+
+#: admin/options-init.php:1567
+msgid "Show Distance"
+msgstr "Entfernung anzeigen"
+
+#: admin/options-init.php:1507
+msgid "Show Email"
+msgstr "Email anzeigen"
+
+#: admin/options-init.php:1520
+msgid "Show Email Placeholder"
+msgstr "E-Mail-Platzhalter anzeigen"
+
+#: admin/options-init.php:2406
+msgid "Show empty filters"
+msgstr "Leere Filter anzeigen"
+
+#: admin/options-init.php:1420
+msgid "Show Excerpt"
+msgstr "Auszug anzeigen"
+
+#: admin/options-init.php:1554
+msgid "Show Fax"
+msgstr "Fax anzeigen"
+
+#: admin/options-init.php:2407
+msgid "Show filters where no store is attached in the frontend."
+msgstr "Filter anzeigen, bei denen im Frontend kein Shop angehängt ist."
+
+#: admin/class-wordpress-store-locator-post-type.php:292
+msgid "Show for Store Category"
+msgstr "Für Geschäftskategorie anzeigen"
+
+#: admin/options-init.php:1616
+msgid "Show Get Direction"
+msgstr "\"Wegbeschreibung\" anzeigen"
+
+#: admin/options-init.php:1742
+msgid "Show Image"
+msgstr "Bild anzeigen"
+
+#: admin/options-init.php:1982
+msgid "Show Map"
+msgstr "Karte anzeigen"
+
+#: admin/options-init.php:1541
+msgid "Show Mobile Phone"
+msgstr "Handy anzeigen"
+
+#: admin/options-init.php:1400
+msgid "Show Name"
+msgstr "Name anzeigen"
+
+#: admin/options-init.php:1703
+msgid "Show on Map"
+msgstr ""
+
+#: admin/options-init.php:1702
+msgid "Show on Map Text"
+msgstr "Text für \"Zeige auf Karte\""
+
+#: admin/class-wordpress-store-locator-post-type.php:328
+msgid "Show only when filtered by "
+msgstr "Nur anzeigen, wenn gefiltert nach"
+
+#: admin/options-init.php:1785 admin/options-init.php:1953
+msgid "Show Opening Hours"
+msgstr "Öffnungszeiten anzeigen"
+
+#: admin/options-init.php:1855
+msgid "Show Opening Hours 2"
+msgstr "Öffnungszeiten 2 anzeigen"
+
+#: admin/options-init.php:1406
+msgid "Show Rating"
+msgstr "Bewertung anzeigen"
+
+#: admin/options-init.php:1967
+msgid "Show Rating Form"
+msgstr "Bewertungsformular anzeigen"
+
+#: admin/options-init.php:1464
+msgid "Show Region"
+msgstr "Region anzeigen"
+
+#: admin/options-init.php:790
+msgid "Show Result List Icon"
+msgstr "Icon für Ergebnisliste anzeigen"
+
+#: admin/options-init.php:827
+msgid "Show Result List Premium Icon"
+msgstr "Premium-Icon in Ergebnisliste anzeigen"
+
+#: admin/options-init.php:1722
+msgid "Show Retailers Button"
+msgstr "Schaltfläche „Händler anzeigen“."
+
+#: admin/options-init.php:1241
+msgid "Show Search Filters"
+msgstr "Suchfilter anzeigen"
+
+#: admin/options-init.php:1234
+msgid "Show Search Radius"
+msgstr "Suchradius anzeigen"
+
+#: admin/options-init.php:1696
+msgid "Show Show on Map Button"
+msgstr "\"Zeige auf Karte\"-Button anzeigen"
+
+#: admin/options-init.php:1580
+msgid "Show Stores Categories"
+msgstr "Filialkategorien anzeigenZeige Filialkategorien"
+
+#: admin/options-init.php:1586
+msgid "Show Stores Filter"
+msgstr "Filialfilter anzeigen"
+
+#: admin/options-init.php:1446
+msgid "Show Street"
+msgstr "Straße anzeigen"
+
+#: admin/options-init.php:1528
+msgid "Show Telephone"
+msgstr "Telefon anzeigen"
+
+#: admin/options-init.php:1709
+msgid "Show Visit Store Button"
+msgstr "\"Filiale besuchen\"-Button anzeigen"
+
+#: admin/options-init.php:1715
+msgid "Show Visit Store Text"
+msgstr "Text für \"Filiale besuchen\""
+
+#: admin/options-init.php:1670
+msgid "Show Visit Website Button"
+msgstr "\"Webseite besuchen\"-Button anzeigen"
+
+#: admin/options-init.php:1494
+msgid "Show Website"
+msgstr "Webseite anzeigen"
+
+#: admin/options-init.php:1683
+msgid "Show Write Email Button"
+msgstr "\"Email schreiben\"-Button anzeigen"
+
+#: admin/options-init.php:1452
+msgid "Show ZIP"
+msgstr "PLZ anzeigen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Singapore"
+msgstr "Singapur"
+
+#: admin/options-init.php:1939
+msgid "Single Store Map Icon"
+msgstr "Einzelnes Store-Map-Symbol"
+
+#: admin/options-init.php:560 admin/options-init.php:770
+#: admin/options-init.php:1925
+msgid "Single Store Page"
+msgstr "Einzelseite der Filiale"
+
+#: admin/options-init.php:2224
+msgid "Size of the modal."
+msgstr "Die Größe des Pop-Up-Fensters."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Slovakia"
+msgstr "Slowakei"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Slovenia"
+msgstr "Slowenien"
+
+#: admin/options-init.php:2227
+msgid "Small"
+msgstr "Klein"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Solomon Islands"
+msgstr "Salomon-Inseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Somalia"
+msgstr "Somalia"
+
+#: admin/class-wordpress-store-locator-exporter.php:149
+#: admin/class-wordpress-store-locator-exporter.php:415
+msgid "Something was wrong with the export generation ..."
+msgstr "Mit der Exportgenerierung stimmte etwas nicht ..."
+
+#: admin/options-init.php:659
+msgid "Sort Results by"
+msgstr "Ergebnisse sortieren nach"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "South Africa"
+msgstr "Südafrika"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Süd-Georgien und die südlichen Sandwich-Inseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "South Korea"
+msgstr "Südkorea"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Spain"
+msgstr "Spanien"
+
+#: admin/options-init.php:2137
+msgid "Specify the positon of the Button."
+msgstr "Position des Buttons angeben."
+
+#: admin/options-init.php:341
+msgid "Split the values by comma."
+msgstr "Werte mit Komma trennen."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: admin/class-wordpress-store-locator-post-type.php:495
+msgid "State / Province / Region"
+msgstr "Bundesland / Provinz / Region"
+
+#: admin/class-wordpress-store-locator-post-type.php:71
+msgid "Store"
+msgstr "Filiale"
+
+#: admin/options-init.php:1203
+#: admin/class-wordpress-store-locator-post-type.php:137
+msgid "Store Categories"
+msgstr "Filialkategorien"
+
+#: admin/class-wordpress-store-locator-post-type.php:136
+msgid "Store Category"
+msgstr "Filialkategorie"
+
+#: admin/class-wordpress-store-locator-exporter.php:75
+#: admin/class-wordpress-store-locator-exporter.php:76
+msgid "Store Exporter"
+msgstr "Store-Exporteur"
+
+#: admin/class-wordpress-store-locator-post-type.php:170
+#: admin/class-wordpress-store-locator-post-type.php:171
+msgid "Store Filter"
+msgstr "Filter"
+
+#: admin/options-init.php:1204
+msgid "Store filter"
+msgstr "Filter speichern"
+
+#: admin/options-init.php:1269
+msgid "Store Filter Columns"
+msgstr "Filterspalten speichern"
+
+#: admin/options-init.php:1281
+msgid "Store Filter Show Title"
+msgstr "Store Filter Titel anzeigen"
+
+#: admin/class-wordpress-store-locator-importer.php:77
+#: admin/class-wordpress-store-locator-importer.php:78
+msgid "Store Importer"
+msgstr "Ladenimporteur"
+
+#: public/class-wordpress-store-locator-public.php:482
+msgid "Store in"
+msgstr "in"
+
+#: admin/options-init.php:557 admin/options-init.php:767
+msgid "Store Link Action"
+msgstr "Aktion für Filiallink"
+
+#: admin/options-init.php:119
+#: admin/class-wordpress-store-locator-post-type.php:80
+msgid "Store Locator"
+msgstr "Filialsuche"
+
+#: admin/options-init.php:153
+msgid "Store locator Title"
+msgstr "Titel Store Locator"
+
+#: admin/options-init.php:1037
+msgid "Store name"
+msgstr "Speichername"
+
+#: admin/options-init.php:926
+msgid "Store Name Search"
+msgstr "Suche nach Geschäftsnamen"
+
+#: admin/options-init.php:664 admin/options-init.php:678
+msgid "Store Ranking"
+msgstr "Filial-Ranking"
+
+#: admin/class-wordpress-store-locator-post-type.php:72
+msgid "Stores"
+msgstr "Filialen"
+
+#: admin/class-wordpress-store-locator-exporter.php:139
+msgid "Stores deleted."
+msgstr "Stores gelöscht."
+
+#: admin/options-init.php:1432
+msgid "Strip Shortcodes"
+msgstr "Shortcodes entfernen"
+
+#: public/class-wordpress-store-locator-listing.php:726
+#: public/class-wordpress-store-locator-public.php:835
+msgid "Submit"
+msgstr "einreichen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Sudan"
+msgstr "Sudan"
+
+#: admin/options-init.php:1848 admin/options-init.php:1918
+#: public/class-wordpress-store-locator-listing.php:556
+#: public/class-wordpress-store-locator-public.php:681
+#: public/class-wordpress-store-locator-public.php:1898
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: admin/options-init.php:1847 admin/options-init.php:1917
+msgid "Sunday Text"
+msgstr "Sonntag Text"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Suriname"
+msgstr "Suriname"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Svalbard and Jan Mayen"
+msgstr "Spitzbergen und Jan Mayen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Swaziland"
+msgstr "Swasiland"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Sweden"
+msgstr "Schweden"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Syria"
+msgstr "Syrien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "São Tomé and Príncipe"
+msgstr "São Tomé und Príncipe"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Tajikistan"
+msgstr "Tadschikistan"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Tanzania"
+msgstr "Tansania"
+
+#: admin/class-wordpress-store-locator-post-type.php:396
+msgid "Tel.:"
+msgstr "Tel.:"
+
+#: admin/options-init.php:1535
+msgid "Tel: "
+msgstr ""
+
+#: admin/options-init.php:562 admin/options-init.php:772
+#: admin/class-wordpress-store-locator-post-type.php:571
+msgid "Telephone"
+msgstr "Telefon"
+
+#: admin/options-init.php:1534
+msgid "Telephone Text"
+msgstr "Text für Telefon"
+
+#: admin/options-init.php:321
+msgid "Terrain"
+msgstr "Geländekarte"
+
+#: admin/options-init.php:1249
+msgid "Text above all filters. Leave blank to show all filters without title."
+msgstr ""
+
+#: admin/options-init.php:1256
+msgid "Text above the Categories filter."
+msgstr "Text über dem Filter \"Kategorien\"."
+
+#: admin/options-init.php:1263
+msgid "Text above the radius filter."
+msgstr "Text über dem Radiusfilter."
+
+#: admin/options-init.php:1051 admin/options-init.php:1058
+msgid "Text for along the Route button."
+msgstr "Text für entlang der Route-Schaltfläche."
+
+#: admin/options-init.php:1149
+msgid "Text for contact all stores button."
+msgstr "Text für die Schaltfläche „Alle Geschäfte kontaktieren“."
+
+#: admin/options-init.php:1118
+msgid "Text for the all stores button."
+msgstr "Text für den \"Alle Filialen\"-Button."
+
+#: admin/options-init.php:1102
+msgid "Text for the search button."
+msgstr "Text des Suchbuttons."
+
+#: admin/options-init.php:2129
+msgid "Text inside the custom button."
+msgstr "Text im Button."
+
+#: admin/options-init.php:1163
+msgid ""
+"Text when somebody clicks on contact all stores button, but not stores are "
+"searched."
+msgstr ""
+"Text, wenn jemand auf die Schaltfläche „Alle Geschäfte kontaktieren“ klickt, "
+"aber keine Geschäfte durchsucht werden."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Thailand"
+msgstr "Thailand"
+
+#: wordpress-store-locator.php:95
+msgid ""
+"The custom CSS file in our plugin folder is not writeable! Please change "
+"file permissions of wp-content/plugins/wordpress-store-"
+"locator/public/css/wordpress-store-locator-custom.css to chmod 0777."
+msgstr ""
+"Die benutzerdefinierte CSS-Datei in unserem Plugin-Ordner ist nicht "
+"beschreibbar! Bitte ändern Sie die Dateiberechtigungen von wp-content / "
+"plugins / wordpress-store-locator / public / css / wordpress-store-locator-"
+"custom.css in chmod 0777."
+
+#: admin/options-init.php:2079 admin/options-init.php:2087
+msgid "The custom field name, that you save on singe store level."
+msgstr ""
+"Der benutzerdefinierte Feldname, den Sie auf Einzelspeicherebene speichern."
+
+#: admin/options-init.php:1065
+msgid "The higher, more stores around the route will show."
+msgstr "Je höher, desto mehr Geschäfte rund um die Route werden angezeigt."
+
+#: admin/options-init.php:1075
+msgid ""
+"The lower the more accurate is the results, but it costs more performance. "
+"Background: Google returns more than 200 waypoints (lat / lng) for each "
+"route and we have to query each waypoint. Interval of 20 will only fetch "
+"each 20s waypoint and not all 200."
+msgstr ""
+"Je niedriger, desto genauer sind die Ergebnisse, aber es kostet mehr "
+"Leistung. Hintergrund: Google gibt für jede Route mehr als 200 Wegpunkte "
+"(lat/lng) zurück und wir müssen jeden Wegpunkt abfragen. Bei einem Intervall "
+"von 20 werden nur alle 20 Sekunden Wegpunkte abgerufen und nicht alle 200."
+
+#: admin/options-init.php:2204
+msgid "The position of the Store locator."
+msgstr "Position der Skripte des Store Locators."
+
+#: admin/options-init.php:2190
+msgid "The target attribute of the link."
+msgstr "Das Ziel-Attribut des Links."
+
+#: admin/options-init.php:154
+msgid "The title of the Store locator"
+msgstr "Der Titel des Store Locator"
+
+#: admin/options-init.php:2182
+msgid "The URL where the user will be sent to when he clicked the button."
+msgstr "URL wo der Nutzer hingeleitet wird, falls er auf den Button klickt."
+
+#: admin/options-init.php:1170
+msgid "This field will be filled with all stores emails seperated with comma."
+msgstr ""
+"In dieses Feld werden die E-Mails aller Shops eingetragen, getrennt durch "
+"Komma."
+
+#: admin/options-init.php:542
+msgid "This prevents infowindow twiches when hovering on a map icon again."
+msgstr "Verhindert Ruckeln des Infofensters bei erneutem Mouseover."
+
+#: admin/options-init.php:1637
+msgid ""
+"This requires our <a href=\"https://www.welaunch.io/en/product/woocommerce-"
+"multi-inventory/\" target=\"_blank\">WooCommerce Multi Inventory plugin</a>. "
+"Assign a store to ONE inventory when you edit a store in backend. "
+msgstr ""
+"Hierzu ist unser <a href=\"https://www.welaunch.io/en/product/woocommerce-"
+"multi-inventory/\" target=\"_blank\">WooCommerce Multi Inventory Plugin</a> "
+"erforderlich. Weisen Sie ein Geschäft EINEM Inventar zu, wenn Sie ein "
+"Geschäft im Backend bearbeiten."
+
+#: admin/options-init.php:148
+msgid ""
+"This will be used to fetch Lat / Lng when you import stores. It should not "
+"be your public key and have no http heder restrictions!"
+msgstr ""
+"Wird benutzt, um Längen- und Breitengrad zu ermitteln, wenn Filialen "
+"importiert werden. Sollte nicht der öffentliche Schlüssel sein und keine "
+"HTTP-Header-Einschränkungen haben!"
+
+#: admin/options-init.php:1407
+msgid ""
+"This will show average rating in listing (if available). Also will show "
+"rating form on single store page."
+msgstr ""
+"Dies zeigt die durchschnittliche Bewertung in der Auflistung (falls "
+"verfügbar). Außerdem wird das Bewertungsformular auf einer einzelnen Store-"
+"Seite angezeigt."
+
+#: admin/options-init.php:650 admin/options-init.php:905
+#: admin/options-init.php:1192 admin/options-init.php:1274
+msgid "Three Columns"
+msgstr "Drei Spalten"
+
+#: admin/options-init.php:1827 admin/options-init.php:1897
+#: public/class-wordpress-store-locator-listing.php:553
+#: public/class-wordpress-store-locator-public.php:678
+#: public/class-wordpress-store-locator-public.php:1895
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: admin/options-init.php:1826 admin/options-init.php:1896
+msgid "Thursday Text"
+msgstr "Donnerstag Text"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: admin/options-init.php:916
+msgid "Title & Active Filter"
+msgstr "Titel & aktiver Filter"
+
+#: public/class-wordpress-store-locator-public.php:1454
+msgid "To"
+msgstr "Zu"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Togo"
+msgstr "Gehen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Tonga"
+msgstr "Tonga"
+
+#: admin/options-init.php:1768
+msgid "Top"
+msgstr "oben"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Trinidad and Tobago"
+msgstr "Trinidad und Tobago"
+
+#: admin/options-init.php:1813 admin/options-init.php:1883
+#: public/class-wordpress-store-locator-listing.php:551
+#: public/class-wordpress-store-locator-public.php:676
+#: public/class-wordpress-store-locator-public.php:1893
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: admin/options-init.php:1812 admin/options-init.php:1882
+msgid "Tuesday Text"
+msgstr "Dienstag Text"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Tunisia"
+msgstr "Tunesien"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Turkey"
+msgstr "Truthahn"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Turks and Caicos Islands"
+msgstr "Turks- und Caicosinseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: admin/options-init.php:1191 admin/options-init.php:1273
+msgid "Two Column"
+msgstr "Zweispaltig"
+
+#: admin/options-init.php:904
+msgid "Two Columns"
+msgstr "Zwei Spalten"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "U.S. Minor Outlying Islands"
+msgstr "US Minor Outlying Islands"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "U.S. Miscellaneous Pacific Islands"
+msgstr "Verschiedene US-Pazifikinseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "U.S. Virgin Islands"
+msgstr "US Jungferninseln"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Uganda"
+msgstr "Uganda"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: admin/options-init.php:2380
+msgid "Uncheck this if you see blank strings."
+msgstr ""
+"Deaktivieren Sie diese Option, wenn leere Zeichenfolgen angezeigt werden."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Union of Soviet Socialist Republics"
+msgstr "Union der Sozialistischen Sowjetrepubliken"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "United Arab Emirates"
+msgstr "Vereinigte Arabische Emirate"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "United Kingdom"
+msgstr "Vereinigtes Königreich"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "United States"
+msgstr "Vereinigte Staaten"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Unknown or Invalid Region"
+msgstr "Unbekannte oder ungültige Region"
+
+#: admin/class-wordpress-store-locator-post-type.php:147
+#: admin/class-wordpress-store-locator-post-type.php:180
+#, php-format
+msgid "Update %s"
+msgstr "Aktualisiere %s"
+
+#: admin/options-init.php:2101
+msgid "Update Interval (miliseconds)"
+msgstr "Aktualisierungsintervall (Millisekunden)"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: admin/options-init.php:160
+msgid "Use Excel 2007"
+msgstr "Benutze Excel 2007"
+
+#: admin/options-init.php:2379
+msgid "Use Output Buffering"
+msgstr "Output Buffering verwenden"
+
+#: admin/options-init.php:426
+msgid "Use this when you have many stores on the same location."
+msgstr ""
+"Verwenden Sie diese Option, wenn Sie viele Geschäfte am selben Standort "
+"haben."
+
+#: admin/options-init.php:1288 admin/options-init.php:1295
+#: admin/options-init.php:1302
+msgid "Used when Online Offline filtering is enabled."
+msgstr "Wird verwendet, wenn die Online-Offline-Filterung aktiviert ist."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Vatican City"
+msgstr "Vatikanstadt"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: admin/class-wordpress-store-locator-post-type.php:87
+#, php-format
+msgid "View %s"
+msgstr "Zeige %s"
+
+#: admin/options-init.php:1716
+msgid "Visit Store"
+msgstr ""
+
+#: admin/options-init.php:1677
+msgid "Visit Website"
+msgstr ""
+
+#: admin/options-init.php:1676
+msgid "Visit Website Text"
+msgstr "Text für \"Webseite besuchen\""
+
+#: admin/options-init.php:1439
+msgid "Visual Composer Support"
+msgstr "Visual Composer-Unterstützung"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Wake Island"
+msgstr "Wake Island"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Wallis and Futuna"
+msgstr "Wallis und Futuna"
+
+#: admin/options-init.php:561 admin/options-init.php:771
+#: admin/class-wordpress-store-locator-post-type.php:584
+msgid "Website"
+msgstr "Webseite"
+
+#: admin/options-init.php:1500
+msgid "Website Text"
+msgstr "Text für Webseite"
+
+#: admin/class-wordpress-store-locator-post-type.php:399
+msgid "Website:"
+msgstr "Webseite:"
+
+#: admin/options-init.php:1501
+msgid "Website: "
+msgstr ""
+
+#: admin/options-init.php:1820 admin/options-init.php:1890
+#: public/class-wordpress-store-locator-listing.php:552
+#: public/class-wordpress-store-locator-public.php:677
+#: public/class-wordpress-store-locator-public.php:1894
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: admin/options-init.php:1819 admin/options-init.php:1889
+msgid "Wednesday Text"
+msgstr "Mittwoch Text"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "weLaunch"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Western Sahara"
+msgstr "Westsahara"
+
+#: admin/options-init.php:558
+msgid "What happens when store name is clicked in infowindow."
+msgstr "Was passiert, wenn der Filialname im Infofenster angeklickt wird."
+
+#: admin/options-init.php:768
+msgid "What happens when store name is clicked."
+msgstr "Was passiert, wenn der Filialname angeklickt wird."
+
+#: admin/options-init.php:2170
+msgid "What happens when the User clicks the button."
+msgstr "Was passiert wenn der Nutzer den Button klickt."
+
+#: admin/options-init.php:989
+msgid ""
+"When user enters an address and presses enter it will use first autocomplete "
+"result instead of free search."
+msgstr ""
+"Wenn der Benutzer eine Adresse eingibt und die Eingabetaste drückt, wird "
+"anstelle der freien Suche das erste Ergebnis der automatischen "
+"Vervollständigung verwendet."
+
+#: admin/options-init.php:2241
+msgid "Which product categories should be excluded by the catalog mode."
+msgstr ""
+"Welche Produktkategorien sollen vom Katalogmodus ausgeschlossen werden?"
+
+#: admin/options-init.php:580
+msgid "Width (in pixel)"
+msgstr "Breite (in Pixel)"
+
+#: admin/options-init.php:2049
+msgid "Will display a 2nd icon on single store maps with live position data."
+msgstr ""
+"Zeigt ein zweites Symbol auf Karten einzelner Geschäfte mit Live-"
+"Positionsdaten an."
+
+#: admin/options-init.php:265
+msgid ""
+"Will set the map height automatically based on sidebar (search + result list)"
+" height."
+msgstr ""
+"Legt die Kartenhöhe automatisch basierend auf der Höhe der Seitenleiste "
+"(Suche + Ergebnisliste) fest."
+
+#: admin/options-init.php:726
+msgid "Will set the result list same height as the map is."
+msgstr "Legt fest, dass die Ergebnisliste dieselbe Höhe wie die Karte hat."
+
+#: admin/options-init.php:2114
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Name of the plugin
+#: admin/options-init.php:51 admin/options-init.php:53
+msgid "WordPress Store Locator"
+msgstr "WordPress Store Locator"
+
+#: admin/class-wordpress-store-locator-exporter.php:88
+msgid "WordPress Store Locator Exporter"
+msgstr "WordPress Store Locator Exporter"
+
+#: wordpress-store-locator.php:86
+msgid ""
+"WordPress Store Locator requires the weLaunch Framework plugin. Please "
+"install or activate it before: https://www.welaunch.io/updates/welaunch-"
+"framework.zip"
+msgstr ""
+"Für WordPress Store Locator ist das weLaunch Framework-Plugin erforderlich. "
+"Bitte installieren oder aktivieren Sie es vorher: https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+
+#: admin/options-init.php:1690
+msgid "Write Email"
+msgstr ""
+
+#: admin/options-init.php:1689
+msgid "Write Email Text"
+msgstr "Text für \"Email schreiben\""
+
+#: public/class-wordpress-store-locator-listing.php:720
+#: public/class-wordpress-store-locator-public.php:829
+msgid "Write your review ..."
+msgstr "Schreibe deine Rezension ..."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Yemen"
+msgstr "Jemen"
+
+#: admin/class-wordpress-store-locator-exporter.php:59
+msgid "You are not an admin"
+msgstr "Sie sind kein Administrator"
+
+#: admin/options-init.php:1723
+msgid ""
+"You need our <a href=\"https://www.welaunch.io/en/product/woocommerce-"
+"product-retailers/\" target=\"_blank\">WooCommerce retailer plugin</a>. See "
+"here <a href=\"https://www.welaunch.io/en/knowledge-base/faq/show-online-"
+"where-to-buy-in-physical-stores/\" target=\"_blank\">how to assign retailers "
+"to stores</a>."
+msgstr ""
+"Sie benötigen unser <a href=\"https://www.welaunch.io/en/product/woocommerce-"
+"product-retailers/\" target=\"_blank\">WooCommerce-Händler-Plugin</a> . "
+"Sehen Sie hier <a href=\"https://www.welaunch.io/en/knowledge-base/faq/show-"
+"online-where-to-buy-in-physical-stores/\" target=\"_blank\">, wie Sie "
+"Händlern Filialen zuordnen</a> ."
+
+#: public/class-wordpress-store-locator-listing.php:676
+#: public/class-wordpress-store-locator-listing.php:677
+#: public/class-wordpress-store-locator-public.php:785
+#: public/class-wordpress-store-locator-public.php:786
+msgid "Your Email"
+msgstr "Deine E-Mail"
+
+#: public/class-wordpress-store-locator-listing.php:672
+#: public/class-wordpress-store-locator-listing.php:673
+#: public/class-wordpress-store-locator-public.php:781
+#: public/class-wordpress-store-locator-public.php:782
+msgid "Your Name"
+msgstr "Dein Name"
+
+#: public/class-wordpress-store-locator-public.php:200
+msgid "Your Position!"
+msgstr "Eigene Position!"
+
+#: public/class-wordpress-store-locator-listing.php:719
+#: public/class-wordpress-store-locator-public.php:828
+msgid "Your Review"
+msgstr "Deine Bewertung"
+
+#: admin/class-wordpress-store-locator-exporter.php:147
+msgid "Your Store Export is ready. The Download should start automatically."
+msgstr "Ihr Store-Export ist fertig. Der Download sollte automatisch starten."
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Zambia"
+msgstr "Sambia"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: admin/class-wordpress-store-locator-post-type.php:483
+msgid "ZIP"
+msgstr "PLZ"
+
+#: admin/class-wordpress-store-locator-post-type.php:271
+msgid "Zoom"
+msgstr "Zoomen"
+
+#: admin/class-wordpress-store-locator-exporter.php:431
+#: admin/class-wordpress-store-locator-post-type.php:922
+#: public/class-wordpress-store-locator-listing.php:910
+msgid "Åland Islands"
+msgstr "Ålandinseln"

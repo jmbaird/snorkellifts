@@ -1,0 +1,14 @@
+{
+  "name": "welaunch/wordpress-store-locator",
+  "description": "",
+  "authors": [
+      {
+          "name": "Daniel Barenkamp",
+          "email": "support@welaunch.io"
+      }
+  ],
+  "require":{
+    "dotzero/gmaps-geocode": "^0.6.0",
+    "phpoffice/phpspreadsheet": "1.*"
+  }
+}

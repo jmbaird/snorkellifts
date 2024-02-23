@@ -1,0 +1,7 @@
+.git
+.sftp-config.json
+.wp-config.php
+.DS_STORE
+*.log
+*.sql
+*.sqlite
