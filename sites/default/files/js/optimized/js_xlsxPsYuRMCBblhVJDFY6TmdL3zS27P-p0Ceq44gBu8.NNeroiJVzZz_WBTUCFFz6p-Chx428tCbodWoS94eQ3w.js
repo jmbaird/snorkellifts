@@ -1,0 +1,4 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/modules/contrib/blazy/js/base/io/bio.ajax.min.js. */
+!function(s,t){"use strict";var c,i,u=t.blazy||{};(t=(t.Ajax||{}).prototype).success=(i=t.success,function(t,e){var n,o=u.init;return o&&(n=u.options,clearTimeout(c),c=setTimeout(function(){var t=s.findAll(document,s.selector(n,!0));t.length&&o.load(t,!0,n)},100)),i.apply(this,arguments)})}(dBlazy,Drupal);
+
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/modules/contrib/blazy/js/base/io/bio.ajax.min.js. */

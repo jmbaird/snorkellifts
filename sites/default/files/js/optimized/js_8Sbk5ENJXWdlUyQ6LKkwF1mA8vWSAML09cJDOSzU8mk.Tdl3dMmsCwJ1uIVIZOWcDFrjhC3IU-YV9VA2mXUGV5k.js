@@ -1,0 +1,6 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/assets/vendor/css-escape/css.escape.js. */
+/*! https://mths.be/cssescape v1.5.1 by @mathias | MIT license */
+;(function(e,n){if(typeof exports=='object'){module.exports=n(e)}
+else if(typeof define=='function'&&define.amd){define([],n.bind(e,e))}
+else{n(e)}}(typeof global!='undefined'?global:this,function(e){if(e.CSS&&e.CSS.escape){return e.CSS.escape};var n=function(r){if(arguments.length==0){throw new TypeError('`CSS.escape` requires an argument.')};var t=String(r),o=t.length,n=-1,e,i='',f=t.charCodeAt(0);while(++n<o){e=t.charCodeAt(n);if(e==0x0000){i+='\uFFFD';continue};if((e>=0x0001&&e<=0x001F)||e==0x007F||(n==0&&e>=0x0030&&e<=0x0039)||(n==1&&e>=0x0030&&e<=0x0039&&f==0x002D)){i+='\\'+e.toString(16)+' ';continue};if(n==0&&o==1&&e==0x002D){i+='\\'+t.charAt(n);continue};if(e>=0x0080||e==0x002D||e==0x005F||e>=0x0030&&e<=0x0039||e>=0x0041&&e<=0x005A||e>=0x0061&&e<=0x007A){i+=t.charAt(n);continue};i+='\\'+t.charAt(n)};return i};if(!e.CSS){e.CSS={}};e.CSS.escape=n;return n}));
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/assets/vendor/css-escape/css.escape.js. */

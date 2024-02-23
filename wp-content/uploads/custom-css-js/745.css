@@ -1,0 +1,374 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* a.anchor-list {
+    display: unset !important;
+} */
+
+/*--------Onsite page Css Start--------*/
+@media screen and (min-width: 450px) and (max-width: 540px) { 
+	.elementor.elementor-2309 h2.elementor-heading-title.elementor-size-default {
+    padding-top: 90px;
+}
+}
+@media screen and (min-width: 376px) and (max-width: 449px) { 
+	.elementor.elementor-2309 h2.elementor-heading-title.elementor-size-default {
+    padding-top: 40px;
+}
+}
+
+
+
+/*--------Onsite page Css end--------*/
+
+
+/*--------BIM page Css Start--------*/
+.site-main.post-4305.page .elementor-element.elementor-element-d25715a.e-con-full.e-flex.e-con.e-child{
+	--padding-inline-end: 10px !important;
+}
+.BIM-model-form-filed-company{
+	margin-top: -6px;
+}
+@media screen and (max-width: 540px) and (min-width:500px){
+    .bim-model-name-filed{
+	margin-top: -12px !important;
+}
+	.BIM-model-form-filed-company {
+    margin-top: -12px;
+}
+}
+
+@media screen and (max-width: 425px){
+.gform_wrapper.gravity-theme .ginput_complex span {
+    flex: 0 0 100%;
+    margin-bottom:0px !important; 
+    padding-left: 0;
+	}
+	.bim-model-name-filed{
+	margin-top: -7px !important;
+}
+}
+/*--------BIM page Css Closed--------*/
+/*--------privasy polysi page Css Start--------*/
+.site-main.post-3.page.type-page.status-publish.hentry .elementor-element.elementor-element-f9de77c.elementor-widget.elementor-widget-woocommerce-breadcrumb {
+    color: #999999;
+    font-size: 15px;
+    /* color: #231F20; */
+}
+.site-main.post-3.page.type-page.status-publish.hentry .elementor-element.elementor-element-f9de77c.elementor-widget.elementor-widget-woocommerce-breadcrumb a {
+    
+     color: #231F20; 
+}
+ .site-main.post-3.page.type-page.status-publish.hentry .elementor-element.elementor-element-164be84.elementor-widget.elementor-widget-text-editor h4 {
+	 font-size: 16px !important;
+    font-weight: 700;
+}
+
+/*--------privasy polysi page Css Closed--------*/
+
+
+/* ----------- Financing page Css start------------ */
+ .Financing-text .elementor-widget-container p {
+	margin-bottom: 0px !important;
+} 
+/* ----------- Financing page Css Closed------------ */
+
+
+/* ----------------Policies Guidelines page css start-------- */
+   .Policies-Guidelines h3{
+	font-size:18px;
+   }
+
+/* ----------------Policies  Guidelines page css Closed-------- */
+
+
+/*------------- Right to Opt-Out page css start--------------- */
+
+
+.Right-to-opt-aside h4{
+	font-size: 20px !important;
+	font-weight: 700;
+	color: #FF6C0C !important;
+}
+/* Date input filed Start  */
+    .Right-to-Opt-Out .gform_wrapper.gravity-theme .ginput_container_date input {
+    width: 100%;
+     margin-top: 5px; 
+} 
+	  .Right-to-Opt-Out .gform_wrapper.gravity-theme .ginput_container_date input::placeholder {
+  color: transparent;
+}
+/* Date input filed Closed  */
+/* Date input filed iner field Start  */
+.ui-datepicker-header select {
+	padding: 0 22px 0 0 !important;
+}
+/* Date input filed iner field Closed  */
+
+@media screen and (min-width: 641px) {
+.Right-to-Opt-Out .right-to-opt-date-filed {
+    margin-top: 2px !important;
+}
+}
+@media screen and (min-width: 767px) and (max-width: 768){
+.elementor-element.elementor-element-6a62385.e-con-full.e-flex.e-con.e-child{
+     --padding-inline-start: 0px !important; 
+     --padding-inline-end: 0px !important;
+}
+}
+@media screen and (max-width: 767px) {
+
+.Right-to-Opt-Out .gform_button.button{
+	margin-top:25px !important;
+	padding: 10px 30px !important;
+	}
+}
+@media screen and (max-width: 640px) and (min-width: 500px) {
+.right-to-opt-state-filed{
+	   margin-top: 10px !important;
+	}
+}
+
+/*------------- Right to Opt-Out page css Closed--------------- */
+
+
+/* ---------- Product Warranty Registration page css Start---------- */
+.Product-Warranty-Registration .gform_wrapper.gravity-theme .ginput_container_address span {
+	flex: 0 0 100%;}
+
+.Product-Warranty-Registration .gform_wrapper.gravity-theme .ginput_container_date input {
+    width: 100%;
+}
+.Product-Warranty-Registration .gform_wrapper.gravity-theme .ginput_container_date input::placeholder {
+  color: transparent;
+}
+
+ .Product-Warranty-Registration span h3 {
+    color: #222222;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 18px;
+    display: inline;
+	 background-color: white; 
+         font-weight: 600;
+}
+
+.Product-Warranty-Registration select#input_4_16_6{
+	
+    border: 1px solid #6d6e71;
+    cursor: pointer;
+    padding: 6px 10px;
+	border-radius: 0 !important;
+}
+
+
+
+.Product-Warranty-Registration .gform_wrapper.gravity-theme .gform_footer{
+	padding: 0px !important;
+}
+
+ .Product-Warranty-Registration .gform_wrapper.gravity-theme .gfield.gfield--width-full {
+   
+    margin-bottom: 10px;
+}
+.Product-Warranty-Registration div#field_4_25 { 
+	margin-top: 20px;
+}
+.Product-Warranty-Registration div#field_4_28 p{
+	margin-bottom:0px;
+}
+.Product-Warranty-Registration .ginput_container.ginput_container_consent {
+    margin: 20px 0px;
+}
+
+
+.Product-Warranty-Registration .gform_wrapper.gravity-theme .ginput_complex:not(.ginput_container_address) fieldset:not([style*="display:none"]):not(.ginput_full), .gform_wrapper.gravity-theme .ginput_complex:not(.ginput_container_address) span:not([style*="display:none"]):not(.ginput_full) {
+     padding-right: 0 !important; 
+}
+
+/* foram other fielde css start */
+.Product-Warranty-Registration input#input_4_29_other:disabled {
+    display: none;
+}
+.Product-Warranty-Registration input#input_4_30_other:disabled {
+    display: none;
+}
+
+/* foram other fielde css Closed */
+.product-warranty-company-field{
+	margin-bottom: -2px;
+}
+/* foram email box Css start */
+@media screen and (min-width: 541px) {
+	.Product-Warranty-Registration .product-warranty-email-field {
+    margin-top: 7px !important;
+	}
+}
+/* foram email box Css Closed */
+@media screen and (max-width: 1024px) {
+.Product-Warranty-Registration .gform_wrapper.gravity-theme .gfield.gfield--width-three-quarter {
+    grid-column: span 11;
+	 margin-left: -25px;
+}
+}
+@media screen and (max-width: 768px) {
+.Product-Warranty-Registration .gform_wrapper.gravity-theme .gfield.gfield--width-three-quarter {
+    grid-column: span 11;
+	 margin-left: -25px;
+}
+}
+@media screen and (max-width: 500px) {
+.Product-Warranty-Registration .gform_wrapper.gravity-theme .gfield.gfield--width-three-quarter {
+    grid-column: span 11;
+	 margin-left: -5px;
+}
+}
+
+/* ---------- Product Warranty Registration page css Closed---------- */
+
+
+
+/* ------ ----Parts Return page Css Start-------------*/
+
+/*  Parts Return form h5 heading Css start */
+.Parts-Return h5{
+	margin: 0px !important;
+	font-weight: 700 !important;
+}
+.Parts-Return div#field_14_38{
+	margin: 15px 0px 10px 0px;
+	font-weight: 700 !important;
+}
+/*  Parts Return form h5 heading Css Closed */
+
+/* Form field address Start */
+.Parts-Return .ginput_container_address{
+	margin-bottom: -1%;
+    margin-top: -1%;
+}
+/* Form field address Close */
+
+
+.Parts-Return .parts-Return-email-filed {
+	margin-top:7px !important;
+}
+
+.gform-field-label.gform-field-label--type-sub {
+	font-weight: 500;
+    font-size: 17px !important;
+	display: inline-block;
+	margin-bottom: 8px;
+    padding: 0;
+	color:#231F20;
+}
+
+/* foram saperat line filed start */
+.Parts-Return .gsection {
+    border-bottom: 1px solid #ccc;
+     padding: 0 0px 0px 0 !important; 
+	margin-top: -7px;
+}
+/* foram saperat line filed Closed */
+
+/* form button Closed */
+
+@media screen and (max-width: 768px){
+.Parts-Return .gform_footer.before{
+	padding-bottom: 0px !important;
+}
+}
+@media screen and (max-width: 500px){
+.Parts-Return .parts-Return-email-filed {
+	margin-top:-7px !important;
+}
+	.Parts-Return .gform_fields {
+    grid-row-gap: 10px !important;
+	}
+ .Parts-Return legend.gfield_label.gform-field-label.gfield_label_before_complex {
+    margin-bottom: 4px !important;
+}
+
+}
+/* ------ ----Parts Return page Css Closed-------------*/
+
+/*--------Cookies Policy page Css Start--------*/
+
+ .elementor.elementor-1752 table tbody>tr:nth-child(odd)>td {
+	background-color: #ffffff;
+}
+.elementor.elementor-1752 table thead:first-child tr:first-child th {
+	background-color: hsla(0,0%,50.2%,.0705882353);
+    border-block-start: 1px solid hsla(0,0%,50.2%,.5019607843);
+    
+}
+ .elementor.elementor-1752 table thead:first-child tr:first-child th {
+  text-align: left !important;
+}
+   .elementor.elementor-1752 table{
+    margin: auto;
+    border-radius: 5px;
+    border-spacing: initial;
+    
+}
+  .site-main.post-1752.page.type-page.status-publish.hentry .elementor-kit-7 h3 {
+  font-size: 1.5em;
+	color:black;
+   margin-bottom: 15px.
+   padding:0px;
+	font-weight: 700;
+}
+
+.site-main.post-1752.page.type-page.status-publish.hentry .elementor-kit-7 h4 {
+	font-size: 1em;
+	color:black;
+    margin-bottom: 9px;
+    padding:0px;
+	font-weight: 700;
+}
+
+.elementor-element.elementor-element-dee0122.e-flex.e-con-boxed.e-con.e-parent p
+{
+	margin-bottom: 0px !important;
+}
+.elementor-element.elementor-element-dee0122.e-flex.e-con-boxed.e-con.e-parent a{
+	color:black;
+}
+#41a9f5f7 p {
+	margin-bottom: 0px !important;
+}
+
+/* Media query for small screens */
+@media screen and (max-width: 500px){
+	table.Cookies-Policy {
+    display: inline-flex !important;
+    width: 100%;
+    border: 1px solid hsla(0,0%,50.2%,.5019607843) !important;
+    border-radius: 0px !important;
+}
+
+table.Cookies-Policy thead th {
+    display: block;
+    width: 90% !important;
+    box-sizing: border-box;
+    border-block-start: 0px solid hsla(0,0%,50.2%,.5019607843) !important;
+}
+
+table.Cookies-Policy tbody td {
+    display: grid;
+    width: 90% !important;
+    box-sizing: border-box;
+}
+
+table.Cookies-Policy td,
+table.Cookies-Policy th {
+    border: 0px solid hsla(0,0%,50.2%,.5019607843) !important;
+}
+
+.elementor.elementor-1752 table thead:first-child tr:first-child th {
+    background-color: hsla(0,0%,50.2%,.0705882353) !important;
+}
+
+}
+/* Media query for small screens */
+
+/*--------Cookies Policy page Css Closed--------*/
+</style>
+<!-- end Simple Custom CSS and JS -->

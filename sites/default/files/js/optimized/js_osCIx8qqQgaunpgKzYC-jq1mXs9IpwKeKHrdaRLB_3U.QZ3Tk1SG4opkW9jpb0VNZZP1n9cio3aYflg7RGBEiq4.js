@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/assets/vendor/jquery.ui/ui/safe-blur-min.js. */
+!function(e){'use strict';'function'==typeof define&&define.amd?define(['jquery','./version'],e):e(jQuery)}((function(e){'use strict';return e.ui.safeBlur=function(n){n&&'body'!==n.nodeName.toLowerCase()&&e(n).trigger('blur')}}));
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/assets/vendor/jquery.ui/ui/safe-blur-min.js. */

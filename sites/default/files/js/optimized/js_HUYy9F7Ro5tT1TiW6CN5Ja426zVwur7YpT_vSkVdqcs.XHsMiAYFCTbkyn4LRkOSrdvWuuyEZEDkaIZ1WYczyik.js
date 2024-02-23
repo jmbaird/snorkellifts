@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/modules/filter/filter.js. */
+(function(e,i){i.behaviors.filterGuidelines={attach:function(i){function t(i){var t=e(i.target),r=i.target.value;t.closest('.js-filter-wrapper').find('[data-drupal-format-id]').hide().filter('[data-drupal-format-id="'.concat(r,'"]')).show()};e(once('filter-guidelines','.js-filter-guidelines',i)).find(':header').hide().closest('.js-filter-wrapper').find('select.js-filter-list').on('change.filterGuidelines',t).trigger('change.filterGuidelines')}}})(jQuery,Drupal);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/modules/filter/filter.js. */

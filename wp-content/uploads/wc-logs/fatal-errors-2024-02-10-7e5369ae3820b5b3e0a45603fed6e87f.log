@@ -1,0 +1,45 @@
+2024-02-10T05:30:52+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Widget_Spacer::get_posts() in /home/snorkellifts/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:7
+Stack trace:
+#0 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(324): {closure}('\t\t<div class="e...', Object(Elementor\Widget_Spacer))
+#1 /home/snorkellifts/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('\t\t<div class="e...', Array)
+#2 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(643): apply_filters('elementor/widge...', '\t\t<div class="e...', Object(Elementor\Widget_Spacer))
+#3 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#4 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#5 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1372): Elementor\Element_Base->print_element()
+#6 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#7 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1372): Elementor\Element_Base->print_element()
+#8 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/base/document.php(1740): Elementor\Element_Base->print_element()
+#10 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(418): Elementor\Core\Base\Document->print_elements(Array)
+#11 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/frontend.php(1165): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document->print_elements_with_wrapper(Array)
+#12 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/base/document.php(1184): Elementor\Frontend->get_builder_content(47, false)
+#13 /home/snorkellifts/public_html/wp-content/plugins/elementor/modules/library/documents/library-document.php(76): Elementor\Core\Base\Document->get_content(false)
+#14 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(158): Elementor\Modules\Library\Documents\Library_Document->get_content(false)
+#15 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(173): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document->get_content()
+#16 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/locations-manager.php(364): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document->print_content()
+#17 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/api.php(13): ElementorPro\Modules\ThemeBuilder\Classes\Locations_Manager->do_location('header')
+#18 /home/snorkellifts/public_html/wp-content/themes/hello-elementor/header.php(35): elementor_theme_do_location('header')
+#19 /home/snorkellifts/public_html/wp-includes/template.php(790): require_once('/home/snorkelli...')
+#20 /home/snorkellifts/public_html/wp-includes/template.php(725): load_template('/home/snorkelli...', true, Array)
+#21 /home/snorkellifts/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#22 /home/snorkellifts/public_html/wp-content/themes/hello-elementor/index.php(15): get_header()
+#23 /home/snorkellifts/public_html/wp-includes/template-loader.php(106): include('/home/snorkelli...')
+#24 /home/snorkellifts/public_html/wp-blog-header.php(19): require_once('/home/snorkelli...')
+#25 /home/snorkellifts/public_html/index.php(17): require('/home/snorkelli...')
+#26 {main}
+  thrown in /home/snorkellifts/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 7
+
+2024-02-10T13:41:54+00:00 CRITICAL Cannot redeclare custom_woocommerce_billing_fields() (previously declared in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php:37) in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php on line 64
+
+2024-02-10T13:41:55+00:00 CRITICAL Cannot redeclare custom_woocommerce_billing_fields() (previously declared in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php:37) in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php on line 64
+
+2024-02-10T13:41:55+00:00 CRITICAL Cannot redeclare custom_woocommerce_billing_fields() (previously declared in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php:37) in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php on line 64
+
+2024-02-10T13:41:58+00:00 CRITICAL Cannot redeclare custom_woocommerce_billing_fields() (previously declared in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php:37) in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php on line 64
+
+2024-02-10T13:42:04+00:00 CRITICAL Cannot redeclare custom_woocommerce_billing_fields() (previously declared in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php:37) in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php on line 64
+
+2024-02-10T13:42:06+00:00 CRITICAL Cannot redeclare custom_woocommerce_billing_fields() (previously declared in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php:37) in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php on line 64
+
+2024-02-10T13:42:10+00:00 CRITICAL Cannot redeclare custom_woocommerce_billing_fields() (previously declared in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php:37) in /home/snorkellifts/public_html/wp-content/themes/hello-elementor-child/functions.php on line 64
+

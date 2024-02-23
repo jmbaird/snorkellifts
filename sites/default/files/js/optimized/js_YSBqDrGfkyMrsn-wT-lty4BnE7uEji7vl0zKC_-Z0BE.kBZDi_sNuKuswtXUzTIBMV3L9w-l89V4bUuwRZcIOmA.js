@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/modules/ckeditor5/js/ckeditor5.dialog.fix.js. */
+(function(i){i.widget('ui.dialog',i.ui.dialog,{_allowInteraction:function(i){return i.target.classList.contains('ck')||this._super(i)}})})(jQuery);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/modules/ckeditor5/js/ckeditor5.dialog.fix.js. */

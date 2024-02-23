@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/misc/polyfills/string.includes.js. */
+;if(!String.prototype.includes){String.prototype.includes=function(e,t){'use strict';if(e instanceof RegExp){throw TypeError('first argument must not be a RegExp')};if(t===undefined){t=0};return this.indexOf(e,t)!==-1}};
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/misc/polyfills/string.includes.js. */

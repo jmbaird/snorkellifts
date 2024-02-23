@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/modules/history/js/mark-as-read.js. */
+(function(s,a,o){s.addEventListener('load',function(){if(o.history&&o.history.nodesToMarkAsRead){Object.keys(o.history.nodesToMarkAsRead).forEach(a.history.markAsRead)}})})(window,Drupal,drupalSettings);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/modules/history/js/mark-as-read.js. */

@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/modules/contrib/admin_toolbar/js/admin_toolbar.hover.js. */
+(function(t){t(document).ready(function(){t('.toolbar-tray.toolbar-tray-horizontal .menu-item.menu-item--expanded').hover(function(){t(this).parent().find('li').removeClass('hover-intent');t(this).addClass('hover-intent')},function(){t(this).removeClass('hover-intent')})})})(jQuery);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/modules/contrib/admin_toolbar/js/admin_toolbar.hover.js. */

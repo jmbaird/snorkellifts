@@ -1,0 +1,306 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){
+    max-width:100%;
+	overflow-x:hidden !important;
+} 
+body:not([class*=elementor-page-]) .site-main {
+    max-width: 1200px !important;
+    padding: 0px 8px;
+}
+:where(body:not(.woocommerce-block-theme-has-button-styles)) .woocommerce button.button:hover {
+    background-color: var(--e-global-color-primary);
+    color: #fff;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+    margin: 0;
+	overflow-x:hidden !important;
+}
+body:not([class*=elementor-page-]) .site-main h1.entry-title {
+    font-size: 40px !important;
+}
+button.woocommerce-Button.button {
+    color: #fff;
+    border-radius: 0px;
+    padding: 11px 40px !important;
+    text-transform: uppercase;
+    font-size: 16px !important;
+    background: var(--e-global-color-primary);
+}
+input#user_login {
+    border-radius: 0px;
+    border-color: #666;
+}
+main#content {
+    flex: 1; 
+}
+.elementor-location-footer {
+    flex-shrink: 0;
+}
+span.wpcf7-spinner {
+    display: none;
+}
+.woocommerce-lost-password p.woocommerce-form-row.woocommerce-form-row--first.form-row.form-row-first , .woocommerce-lost-password p.woocommerce-form-row.form-row{
+    padding: 0px;
+	margin-bottom:20px;
+}
+.woocommerce-lost-password .page-content {
+    margin-bottom: 30px;
+}
+.woocommerce-message {
+    border-top-color: var(--e-global-color-primary)!important;
+}.woocommerce-message::before {
+    content: "\e015";
+    color: var(--e-global-color-primary)!important;
+}
+/* .wpc-filters-main-wrap.is-active{
+	opacity:1;
+} */
+.srx-hidden{
+	display:none!important;
+}
+.srx-loop-list img {
+    object-fit: contain;
+}
+.elementor-page-5249 article.product_cat-accessory-packages {
+    display: none !important;
+}
+/*---------contact form Css Start-------------*/
+
+.gform_wrapper.gravity-theme input{
+border-radius: 0;
+    box-sizing: border-box;
+    border: 1px solid #999;
+    font-size: 16px;
+    height: auto;
+padding: 5px 10px}
+
+.gform_wrapper.gravity-theme input[type=text]{
+	border-radius: 0;
+    box-sizing: border-box;
+    border: 1px solid #999;
+    font-size: 16px;
+    height: auto;
+padding: 5px 10px
+}
+.gfield input.large{
+	border-radius: 0;
+    box-sizing: border-box;
+    border: 1px solid #999 !important;
+    font-size: 16px !important;
+    height: auto !important;
+padding: 5px 10px !important;
+}
+.gform_fields.top_label.form_sublabel_below.description_below h5{
+	margin:0px !important;
+}
+/*---- Foram heading h5 BIM page Start --- */
+
+.Foram_heading{
+	margin-top:30px;
+    margin-bottom:0px;
+}
+/*---- Foram heading h5 BIM page Closed --- */
+.gform_fields ::placeholder {
+  color:#231F20;
+  opacity: 1; /* Firefox */
+}
+
+
+
+
+
+/*---- Form label Start ------*/
+
+.gfield_label {
+    font-weight: 500;
+    font-size: 17px !important;
+	font-family: "Open Sans", Sans-serif;
+	color:#231F20;
+}
+/*---- Form label Closed ------*/
+
+/* form radio button Start */
+
+.gfield_radio input[type=radio] {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 50%;
+    cursor: pointer;
+    display: inline-block;
+    height: 0.6em;
+    margin: inherit;
+    min-height: 16px;
+    min-width: 16px;
+    position: relative;
+    transform: translateY(12%);
+    width: 0.6em;
+	padding:0px !important;
+	margin-left:0px !important;
+}
+.gfield_radio input[type="radio"]:checked {
+    background-color: var(--e-global-color-primary) !important;
+    box-shadow: inset 0 0 0 2px #fff;
+    border: 1px solid var(--e-global-color-primary);
+}
+
+/* Form Radio button Closed */
+
+.ginput_container.ginput_container_consent input[type="checkbox"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #fff;
+    border: 1px solid #888888;
+    cursor: pointer;
+    display: inline-block;
+    height: 0.6em;
+    margin: inherit;
+    min-height: 16px;
+    min-width: 16px;
+    position: relative;
+    transform: translateY(12%);
+    width: 0.6em;
+    vertical-align: middle;
+    margin-bottom: 4px;
+	padding: 0px !important;
+	margin-left:0px !important;
+	margin-top:0px;
+}
+
+ .ginput_container.ginput_container_consent input[type="checkbox"]:checked {
+    background-color: var(--e-global-color-primary) !important;
+    box-shadow: none;
+    border: 1px solid var(--e-global-color-primary);
+}
+.ginput_container.ginput_container_consent input[type="checkbox"]:checked::before {
+    content: '\2713'; 
+    display: block;
+    color: #fff; 
+    font-size: 10px; 
+     margin-left: 4px;
+    font-weight: 700;
+}
+/*--- Foram last contact and chack box Start----  */
+label.gform-field-label.gform-field-label--type-inline.gfield_consent_label {
+    display: inline !important;
+	font-family: 'Open Sans';
+    font-weight: 400;
+}
+/*--- Foram last contact and chack box Closed----  */
+
+.gform_button.button{
+	font-family: "Open Sans", Sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+      padding: 8px 45px !important;
+	 border-radius: 0;
+    border: none !important;
+}
+/*---------GForm Media qurey -------------*/
+@media only screen and (max-width: 425px){
+	.gform_footer.before, .gform_button.button{
+		margin-top:20px;
+	}
+	
+}
+/*---------contact form Css cLOSED-------------*/
+/*----------------------*/
+
+main#content {
+    margin-top: 5px;
+}
+.home main#content, .page-id-281 main#content{
+    margin-top: 0px !important;
+}
+
+/* #content .page-content , body:not([class*=elementor-page-]) .site-main{
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    margin-top: 24px !important;
+} */
+/* list-icon */
+.elementor-widget-icon-list.list-icon{
+    padding-bottom:5px !important;
+}
+.elementor-widget-video .elementor-wrapper iframe, .elementor-widget-video .elementor-wrapper video{
+	 background-color: transparent !important;
+}
+/*--------PAGE TITLE H2--------*/
+.page-header {
+    margin-bottom: 30px;
+}
+.page-header h1.entry-title, .entry-title h1 {
+    font-size: 42px !important;
+    font-weight: 800 !important;
+    letter-spacing: -0.7px !important;
+    text-transform: uppercase;
+    color: #000;
+    word-spacing: 5px;
+    max-width: 1200px !important;
+    padding-bottom: 10px !important;
+}
+body:not([class*=elementor-page-]) .site-main h1.entry-title {
+    padding: 0px !important;
+}
+.search-results label.search_keyword_label.single_keyword {
+    visibility: hidden !important;
+}
+/* ----------- Start Responsivness ----------- */
+@media only screen and  (max-width: 1201px){
+.page-header .entry-title{
+    max-width: 1150px;
+    padding-left: 0px !important;
+}
+/* 	main#content {
+    padding: 0px 20px !important;
+} */
+}
+@media only screen and (max-width:1024px){
+    main#content {
+    /*padding: 0px 10px ;*/
+}
+    .page-id-25685 main#content, .page-id-24313 main#content,.home main#content {
+    padding: 0px !important;
+}
+}
+@media only screen and (max-width: 767px){
+    .page-header h1.entry-title {
+        font-size: 32px !important;
+    }
+}
+/*----------- End Responsivness ----------- */
+
+/* h3 and h4 spacing */
+h3.elementor-heading-title , h4.elementor-heading-title {
+    margin-bottom: 1rem;
+}
+/* icon list bottom space */
+.elementor-icon-list--layout-traditional.elementor-widget-icon-list {
+    padding-bottom: 14px;
+}
+/*--------FOOTER-----------*/
+.srx-footer a {
+    color: #444 !important;
+}
+.srx-footer h5 {
+    margin-bottom:0px;
+}
+.srx-footer p {
+    margin-top:8px;
+}
+div#srx-footer-2 a {
+    color: #fff !important;
+    padding: 5px 24px;
+}
+button:focus-visible , [type=submit]:focus-visible, button:focus , [type=submit]:focus ,.elementor-widget-n-menu .e-n-menu-heading .e-n-menu-title a:focus-visible{
+    outline: none !important;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

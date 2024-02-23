@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/modules/toolbar/js/views/MenuVisualView.js. */
+(function(e,n,t){t.toolbar.MenuVisualView=n.View.extend({initialize:function(){this.listenTo(this.model,'change:subtrees',this.render)},render:function(){var t=this,n=this.model.get('subtrees');Object.keys(n||{}).forEach(function(i){e(once('toolbar-subtrees',t.$el.find('#toolbar-link-'.concat(i)))).after(n[i])});if('drupalToolbarMenu' in e.fn){this.$el.children('.toolbar-menu').drupalToolbarMenu()}}})})(jQuery,Backbone,Drupal);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/modules/toolbar/js/views/MenuVisualView.js. */

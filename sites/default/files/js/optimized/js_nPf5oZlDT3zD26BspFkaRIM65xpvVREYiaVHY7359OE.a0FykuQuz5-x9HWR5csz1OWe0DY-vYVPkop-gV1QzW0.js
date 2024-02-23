@@ -1,0 +1,4 @@
+/* Source and licensing information for the line(s) below can be found at http://snorkellifts.com/modules/contrib/colorbox/styles/default/colorbox_style.js. */
+(function(e){Drupal.behaviors.initColorboxDefaultStyle={attach:function(o,i){e(o).bind('cbox_complete',function(){if(e('#cboxTitle:empty',o).length==!1){e('#cboxLoadedContent img',o).bind('mouseover',function(){e('#cboxTitle',o).slideDown()});e('#cboxOverlay',o).bind('mouseover',function(){e('#cboxTitle',o).slideUp()})}
+else{e('#cboxTitle',o).hide()}})}}})(jQuery);
+/* Source and licensing information for the above line(s) can be found at http://snorkellifts.com/modules/contrib/colorbox/styles/default/colorbox_style.js. */

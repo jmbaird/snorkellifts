@@ -1,0 +1,247 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/*-------------NEWSLTTER START---------------*/
+.srx-sign-up-page form.ctct-form-10701 label {
+    display: none !important;
+}
+.srx-sign-up-page form.ctct-form-10701 input {
+    max-width: 650px;
+}
+.srx-sign-up-page form.ctct-form-10701 input.ctct-submit {
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+	border-color: #ff6c0c;
+    padding: 10px;
+}
+.srx-sign-up-page .ctct-form-wrapper{
+	display: inline-grid;
+}
+.srx-sign-up-page .ctct-form-wrapper span.ctct-form-description{
+	order:3;
+}
+/*-----------------------FOOTER FORM-----------------------------*/
+.page.page-id-3098 .elementor-grid-item img {
+    max-height: 140px;
+    object-fit: cover;
+}
+.srx-footer-form form.ctct-form.ctct-form-10701 {
+    max-width: 710px;
+    margin: 0 auto;
+}
+.srx-footer-form p.ctct-form-field.ctct-form-field-text input, .srx-footer-form p.ctct-form-field.ctct-form-field-email input {
+    border-radius: 0;
+    border: #e6e6e6 1px solid;
+    color: #666666;
+    padding: 10px 15px;
+}
+.srx-footer-form p.ctct-form-field.ctct-form-field-text:first-child {
+    width: 50%;
+    float: left;
+}
+.srx-footer-form p.ctct-form-field.ctct-form-field-text:nth-child(2) {
+    width: 50%;
+    float: right;
+}
+.srx-footer-form p.ctct-form-field.ctct-form-field-text:first-child input {
+    width: 98%;
+	float: left;
+}
+.srx-footer-form p.ctct-form-field.ctct-form-field-text:nth-child(2) input{
+	width: 98%;
+	float: right;
+}
+.srx-footer-form p.ctct-form-field.ctct-form-field-email {
+    width: 70%;
+	float: left;
+}
+.srx-footer-form p.ctct-form-field.ctct-form-field-email input {
+    width: 98%;
+	float: left;
+}
+.srx-footer-form p.ctct-form-field.ctct-form-field-submit {
+    width: 30%;
+	float: right;
+}
+.srx-footer-form p.ctct-form-field.ctct-form-field-submit input {
+    width: 98%;
+    float: right;
+    padding: 10px 50px !important;
+    font-weight: 700!important;
+    font-size: 15px !important;
+    border-color: #ff6c0c;
+    text-transform: uppercase;
+}
+.srx-footer-form span.ctct-form-description {
+    text-align: center;
+}
+/*------------------NEWSLTTER SIDEBAR FORM-------------------------*/
+.srx-sidebar-form span.ctct-form-description {
+    display: none;
+}
+.srx-sidebar-form input {
+    border-radius: 0;
+    border: #e6e6e6 1px solid;
+    color: #666666;
+    padding: 10px 15px;
+}
+.srx-sidebar-form p.ctct-form-field.ctct-form-field-submit input {
+    width: 100%;
+    text-transform: uppercase;
+    padding: 10px;
+	border-color: #ff6c0c;
+}
+/*-------------NEWSLTTER END---------------*/
+.location-section .elementor-icon-list--layout-traditional.elementor-widget-icon-list {
+     padding-bottom: 0px !important; 
+}
+.elementor-kit-6 p {
+    margin-bottom: 10px !important;
+}
+.contactus-input-fiels input.wpcf7-form-control.wpcf7-text {
+    border: 1px solid #888888 !important;
+    border-radius: 0px;
+	margin-bottom: -8px !important;
+}
+
+.contactus-input-fiels textarea.wpcf7-form-control.wpcf7-textarea {
+    border: 1px solid #888888 !important;
+	border-radius: 0px;
+}
+
+.contactus-input-fiels .subscribe {
+	border: 0px solid #c36 !important;
+}
+.contactus-input-fiels p{
+	font-family: "Open Sans", Sans-serif;
+	color: #000000;
+}
+
+.location-section span{
+    font-family: "Open Sans", Sans-serif;
+	font-size:18px;
+	font-weight: 600;
+	color: #000000;
+	
+	
+}
+.contact-inquiry strong{
+	font-family: "Open Sans", Sans-serif;
+	font-size:18px;
+	font-weight: 500;
+	color: #000000;
+margin-bottom:10px
+}
+.contactus-input-fiels {
+	margin-bottom: 40px;
+}
+.location-section p a{
+	color: black;
+}
+
+/* ----------- Gravity form changig style ----------- */
+.gform_wrapper.gravity-theme .gfield textarea.small {
+ 
+    border: 1px solid #888888 !important;
+    border-radius:0px !important;
+}
+/* ----- Gravity form radio button line start----- */
+div#input_1_7 {
+    display: flex !important;
+    padding-left: 20px
+}
+div#input_1_15{
+	display: flex ;
+	margin-bottom: 10px;
+    padding-left: 20px
+}
+/* ----- Gravity form radio button line end------ */
+
+
+.gform_wrapper.gravity-theme .gfield-choice-input+label {
+    
+	max-width: calc(100%) !important;}
+ #gform_fields_1 .gfield-choice-input  {
+	margin-left: 7px !important;
+	 margin-bottom:4px;
+}
+ 
+
+.gform_wrapper.gravity-theme .gfield_label{
+	font-weight: 500;
+    font-size: 17px !important;
+}
+div#field_1_17 p {
+	font-size: 14px;
+}
+
+input#gform_submit_button_1 {
+	
+	padding: 9px 60px !important;
+	border:none !important;
+}
+.gform_wrapper.gravity-theme .gfield input.large {
+	border: 1px solid #888888 !important;
+    border-radius: 0px;
+	margin-bottom: -8px !important;
+}
+input#input_1_1_3 {
+	border: 1px solid #888888 !important;
+    border-radius: 0px;
+	margin-bottom: -8px !important;
+}
+input#input_1_6_3 {
+	border: 1px solid #888888 !important;
+    border-radius: 0px;
+	margin-bottom: -8px !important;
+}
+
+
+/* .contactus-form input.wpcf7-form-control.wpcf7-submit.has-spinner.subscribe {
+	margin-top: 25px;
+	padding: 10px 60px !important;
+} */
+/* ----------- Start Responsivness ----------- */
+@media only screen and (max-width: 426px) {
+	
+    .gform_wrapper.gravity-theme .gform_footer{
+			margin:0px; 
+		    padding:0px;
+	}
+ div#input_1_15 {
+    display: block !important;
+	 width: 100%;}
+}
+@media only screen and (max-width: 641px){
+.gform_wrapper.gravity-theme input:not([type=radio]):not([type=checkbox]):not([type=image]):not([type=file]) {
+    line-height: 1;
+    min-height: 32px;
+}
+}
+	@media only screen and (max-width: 768px) {
+			
+     input#gform_submit_button_1 {
+	margin-top: 10px !important;
+	padding: 5px 50px !important;
+	border:none !important;}
+     
+	
+		div#input_1_15 {
+    display: flex;
+    margin-bottom: 10px;
+    padding-left: 0px;
+    flex-wrap: wrap;
+}
+
+}
+@media only screen and (max-width: 1024px) {
+	div#input_1_15 {
+    display: flex;
+    margin-bottom: 10px;
+    padding-left: 0px;
+    flex-wrap: wrap;
+}
+
+}</style>
+<!-- end Simple Custom CSS and JS -->

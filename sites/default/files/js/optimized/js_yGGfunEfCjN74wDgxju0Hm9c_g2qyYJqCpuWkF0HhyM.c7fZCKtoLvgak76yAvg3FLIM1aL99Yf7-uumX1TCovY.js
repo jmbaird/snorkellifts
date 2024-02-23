@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/modules/contrib/webform/js/webform.announce.js. */
+(function(n,a){'use strict';a.behaviors.webformAnnounce={attach:function(e){n('[data-webform-announce]',e).once('data-webform-announce').each(function(){a.announce(n(this).data('webform-announce'))})}}})(jQuery,Drupal);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/modules/contrib/webform/js/webform.announce.js. */

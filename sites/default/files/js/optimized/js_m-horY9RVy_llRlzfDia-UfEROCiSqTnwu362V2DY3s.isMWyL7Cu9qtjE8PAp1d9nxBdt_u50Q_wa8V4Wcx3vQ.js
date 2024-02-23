@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/themes/claro/js/vertical-tabs.js. */
+(function(t,a){a.theme.verticalTab=function(e){var a={};a.title=t('<strong class="vertical-tabs__menu-item-title"></strong>');a.title[0].textContent=e.title;a.item=t('<li class="vertical-tabs__menu-item" tabindex="-1"></li>').append(a.link=t('<a href="#" class="vertical-tabs__menu-link"></a>').append(t('<span class="vertical-tabs__menu-link-content"></span>').append(a.title).append(a.summary=t('<span class="vertical-tabs__menu-link-summary"></span>'))));return a}})(jQuery,Drupal);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/themes/claro/js/vertical-tabs.js. */

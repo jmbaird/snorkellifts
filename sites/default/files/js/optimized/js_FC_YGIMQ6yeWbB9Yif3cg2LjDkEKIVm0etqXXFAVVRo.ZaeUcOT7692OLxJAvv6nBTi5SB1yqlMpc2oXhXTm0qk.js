@@ -1,0 +1,6 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/modules/contrib/advagg/advagg_mod/js/loadCSS.js. */
+/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+(function(e){'use strict';var n=function(o,r,u){var t=e.document,n=t.createElement('link'),i;if(r){i=r}
+else{var f=(t.body||t.getElementsByTagName('head')[0]).childNodes;i=f[f.length-1]};var a=t.styleSheets;n.rel='stylesheet';n.href=o;n.media='only x';function s(e){if(t.body){return e()};setTimeout(function(){s(e)})};s(function(){i.parentNode.insertBefore(n,(r?i:i.nextSibling))});var d=function(e){var i=n.href,t=a.length;while(t--){if(a[t].href===i){return e()}};setTimeout(function(){d(e)})};function l(){if(n.addEventListener){n.removeEventListener('load',l)};n.media=u||'all'};if(n.addEventListener){n.addEventListener('load',l)};n.onloadcssdefined=d;d(l);return n};if(typeof exports!=='undefined'){exports.loadCSS=n}
+else{e.loadCSS=n}}(typeof global!=='undefined'?global:this));
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/modules/contrib/advagg/advagg_mod/js/loadCSS.js. */

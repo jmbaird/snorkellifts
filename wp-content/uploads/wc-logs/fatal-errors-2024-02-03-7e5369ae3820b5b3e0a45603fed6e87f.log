@@ -1,0 +1,40 @@
+2024-02-03T03:54:45+00:00 CRITICAL Uncaught TypeError: Elementor\TemplateLibrary\Source_Local::on_save_post(): Argument #2 ($post) must be of type WP_Post, null given, called in /home/snorkellifts/public_html/wp-includes/class-wp-hook.php on line 326 and defined in /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php:1114
+Stack trace:
+#0 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(326): Elementor\TemplateLibrary\Source_Local->on_save_post(5099, NULL)
+#1 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/snorkellifts/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/snorkellifts/public_html/wp-includes/post.php(4760): do_action('save_post', 5099, NULL, true)
+#4 /home/snorkellifts/public_html/wp-includes/post.php(4862): wp_insert_post(Array, false, true)
+#5 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/db.php(235): wp_update_post(Array)
+#6 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/base/document.php(1301): Elementor\DB->save_plain_text(5099)
+#7 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/base/document.php(797): Elementor\Core\Base\Document->save_elements(Array)
+#8 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/documents-manager.php(545): Elementor\Core\Base\Document->save(Array)
+#9 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#10 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#11 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#12 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 /home/snorkellifts/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#14 /home/snorkellifts/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#15 {main}
+  thrown in /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 1114
+
+2024-02-03T10:32:12+00:00 CRITICAL Uncaught TypeError: Elementor\TemplateLibrary\Source_Local::on_save_post(): Argument #2 ($post) must be of type WP_Post, null given, called in /home/snorkellifts/public_html/wp-includes/class-wp-hook.php on line 326 and defined in /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php:1114
+Stack trace:
+#0 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(326): Elementor\TemplateLibrary\Source_Local->on_save_post(5334, NULL)
+#1 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/snorkellifts/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/snorkellifts/public_html/wp-includes/post.php(4760): do_action('save_post', 5334, NULL, true)
+#4 /home/snorkellifts/public_html/wp-includes/post.php(4862): wp_insert_post(Array, false, true)
+#5 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/db.php(235): wp_update_post(Array)
+#6 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/base/document.php(1301): Elementor\DB->save_plain_text(5334)
+#7 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/base/document.php(797): Elementor\Core\Base\Document->save_elements(Array)
+#8 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/documents-manager.php(545): Elementor\Core\Base\Document->save(Array)
+#9 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#10 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#11 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#12 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 /home/snorkellifts/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#14 /home/snorkellifts/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#15 {main}
+  thrown in /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 1114
+

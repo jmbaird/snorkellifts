@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/modules/media/js/form.js. */
+(function(a,e){e.behaviors.mediaFormSummaries={attach:function(t){a(t).find('.media-form-author').drupalSetSummary(function(a){var n=a.querySelector('.field--name-uid input'),t=n&&n.value,u=a.querySelector('.field--name-created input'),r=u&&u.value;if(t&&r){return e.t('By @name on @date',{'@name':t,'@date':r})};if(t){return e.t('By @name',{'@name':t})};if(r){return e.t('Authored on @date',{'@date':r})}})}}})(jQuery,Drupal);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/modules/media/js/form.js. */

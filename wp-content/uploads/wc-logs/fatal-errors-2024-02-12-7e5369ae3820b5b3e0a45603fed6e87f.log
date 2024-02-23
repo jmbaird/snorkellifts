@@ -1,0 +1,29 @@
+2024-02-12T14:57:23+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string / int in /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php:1544
+Stack trace:
+#0 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php(1506): ElementorPro\Modules\Woocommerce\Module->adjust_setting_for_product_renderer(Object(ElementorPro\Modules\LoopBuilder\Widgets\Loop_Grid))
+#1 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php(1496): ElementorPro\Modules\Woocommerce\Module->parse_loop_query_args(Object(ElementorPro\Modules\LoopBuilder\Widgets\Loop_Grid), Array)
+#2 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php(1447): ElementorPro\Modules\Woocommerce\Module->loop_query(Array, Object(ElementorPro\Modules\LoopBuilder\Widgets\Loop_Grid))
+#3 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Woocommerce\Module->ElementorPro\Modules\Woocommerce\{closure}(Array, Object(ElementorPro\Modules\LoopBuilder\Widgets\Loop_Grid))
+#4 /home/snorkellifts/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/query-control/classes/elementor-post-query.php(154): apply_filters('elementor/query...', Array, Object(ElementorPro\Modules\LoopBuilder\Widgets\Loop_Grid))
+#6 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/query-control/classes/elementor-post-query.php(49): ElementorPro\Modules\QueryControl\Classes\Elementor_Post_Query->get_query_args()
+#7 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/query-control/module.php(959): ElementorPro\Modules\QueryControl\Classes\Elementor_Post_Query->get_query()
+#8 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/posts/widgets/posts.php(73): ElementorPro\Modules\QueryControl\Module->get_query(Object(ElementorPro\Modules\LoopBuilder\Widgets\Loop_Grid), 'product_query', Array, Array)
+#9 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/loop-builder/widgets/base.php(57): ElementorPro\Modules\Posts\Widgets\Posts->query_posts()
+#10 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/posts/skins/skin-base.php(856): ElementorPro\Modules\LoopBuilder\Widgets\Base->query_posts()
+#11 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/loop-builder/skins/skin-loop-base.php(90): ElementorPro\Modules\Posts\Skins\Skin_Base->render()
+#12 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/skins/skin-loop-product.php(36): ElementorPro\Modules\LoopBuilder\Skins\Skin_Loop_Base->render()
+#13 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/base/skin-base.php(79): ElementorPro\Modules\WooCommerce\Skins\Skin_Loop_Product->render()
+#14 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(612): Elementor\Skin_Base->render_by_mode()
+#15 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/base/document.php(328): Elementor\Widget_Base->render_content()
+#16 /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(456): Elementor\Core\Base\Document->render_element(Array)
+#17 /home/snorkellifts/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(459): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document->render_element(Array)
+#18 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#19 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#20 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#21 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#22 /home/snorkellifts/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#23 /home/snorkellifts/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#24 {main}
+  thrown in /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1544
+

@@ -1,0 +1,14 @@
+2024-02-06T14:31:42+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/snorkellifts/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:47
+Stack trace:
+#0 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(326): stores_single_title('event page')
+#1 /home/snorkellifts/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('event page', Array)
+#2 /home/snorkellifts/public_html/wp-includes/post-template.php(174): apply_filters('the_title', 'event page', 5636)
+#3 /home/snorkellifts/public_html/wp-content/plugins/advanced-custom-fields/includes/admin/post-types/admin-taxonomy.php(73): get_the_title(Object(WP_Post))
+#4 /home/snorkellifts/public_html/wp-content/plugins/advanced-custom-fields/includes/admin/post-types/admin-taxonomy.php(47): ACF_Admin_Taxonomy->taxonomy_saved_message()
+#5 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(324): ACF_Admin_Taxonomy->post_updated_messages(Array)
+#6 /home/snorkellifts/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#7 /home/snorkellifts/public_html/wp-admin/edit-form-advanced.php(219): apply_filters('post_updated_me...', Array)
+#8 /home/snorkellifts/public_html/wp-admin/post.php(206): require('/home/snorkelli...')
+#9 {main}
+  thrown in /home/snorkellifts/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 47
+

@@ -1,0 +1,260 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* equipment archive*/
+
+/* equipment categories archive */
+.srx_quick_view-container {
+	width:100%;
+}
+.postid-12608 .elementor-element-c958fc8 .elementor-widget-container:before {
+    content: 'Weight (with outriggers)';
+	font-size:13px;
+	font-weight: 400;
+}
+.product-hover .elementor-posts .elementor-post__excerpt{
+    margin-bottom: 0px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+	overflow:hidden;
+}
+.equipment-category-description{
+    margin-bottom: 0px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+	overflow:hidden;
+	color:var(--e-global-color-text);
+	font-weight:400;
+}
+.srx_sub_category .woocommerce ul.products li.product a:before {
+    color: #f68933;
+    content: "|"!important;
+    font-family: "Open Sans",sans-serif;
+    font-weight: 300;
+    margin: 0 10px;
+	line-height: 35px;
+}
+.srx_sub_category .woocommerce ul.products li.product.first a:first-child:before {
+    color: #f68933;
+    content: "|"!important;
+    font-family: "Open Sans",sans-serif;
+    font-weight: 300;
+    margin: 0 10px;
+	font-size:25px;
+	line-height: 35px;
+}
+.srx_sub_category .woocommerce ul.products li.product a{
+    display:inline-flex;
+}
+.srx_sub_category .elementor-widget-theme-page-title.elementor-page-title.elementor-widget-heading {
+    width: auto;
+}
+.srx_sub_category ul.products.elementor-grid.columns-4 {
+    display: flex !important;
+	flex-wrap: wrap;
+}
+.equipment-category .woocommerce ul.products li.product a img:hover {
+    opacity: 0.7;
+}
+.equipment-category .woocommerce ul.products li.product a img{
+	margin-bottom:5px;
+	height: 320px;
+    object-fit: cover;
+}
+.srx_sub_category .equipment-category-description, .equipment-category .products:before, .equipment-category .product .count, .single-product-video-label,.single-product-gallery-label ,.video-cat-container, .espanol-heading, .postid-12608 .elementor-element-c958fc8 p.elementor-heading-title.elementor-size-default{
+	display:none!important;
+}
+.download-acf .e-con-inner {
+    gap: 0px !important;
+}
+.equipment-category h2.woocommerce-loop-category__title {
+    font-size: 24px !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #231F20;
+}
+.equipment-category-description a {
+    color: var(--e-global-color-text) !important;
+}
+.equipment-category ul.products.columns-2 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column-gap: 90px;
+    grid-row-gap: 30px;
+}
+.equipment-category .woocommerce.columns-2 ul.products li.product {
+    width: 100%;
+    margin: 0px;
+}
+/* equipment archive single*/
+.product-template-default.single-product .elementor.swiper-slide.e-loop-item.product.type-product.status-publish.has-post-thumbnail {
+    width: 276.25px;
+    margin-right: 5px;
+}
+.single-accordion .spec--container {
+    padding-top:10px;
+}
+.single-btn .elementor-widget-container {
+    margin-bottom: 0px !important;
+}
+.equipment-specs {
+    font-size: 14px;
+    margin-top: 15px;
+}
+.equipment-spec {
+    margin-top: 10px;
+}
+.single-product-gallery-label h6.elementor-heading-title.elementor-size-default:before {
+    content: '';
+    font-weight: 900;
+    color: #6d6e71;
+    content: "\f302";
+    margin-right: 8px;
+    font-family: "Font Awesome 5 Free";
+}
+.single-product-video-label h6.elementor-heading-title.elementor-size-default:before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    color: #6d6e71;
+    content: "\f03d";
+    margin-right: 8px;
+}
+.srx-block{
+	display:block !important;
+}
+/* The toolbox single post */
+#srx_sm_3_toolbox .newsletter p, .newsletter-submit p {
+    display: grid !important;
+}
+.page-id-2870 a.elementor-postthumbnaillink img {
+    object-fit: contain;
+}
+.page-id-2870 a.elementor-postthumbnaillink img{
+    object-fit: contain;
+}
+.the-toolbox a.elementor-post__thumbnail__link img {
+    object-fit: contain;
+}
+
+/* news category sidebar upcomming events */
+
+.srx_upcomming_sidebar .wpem-event-details {
+    padding-left: 0px !important;
+}
+
+.srx_upcomming_sidebar .wpem-event-listing-list-view.wpem-event-listings .wpem-event-layout-wrapper .event_listing {
+    padding: 0px !important;
+}
+.srx_upcomming_sidebar h3.wpem-heading-text {
+    font-size: 14px !important;
+	color: #FF6C0C !important;
+	font-weight: 400 !important;
+}
+.srx_upcomming_sidebar h3.wpem-heading-text:hover {
+    color: #FF6C0CDE !important;
+}
+.srx_upcomming_sidebar .wpem-event-date-time {
+    font-size: 14px !important;
+    color: #231F20 !important;
+}
+.srx_upcomming_sidebar .wpem-event-listing-list-view {
+   margin-bottom: 10px!important;
+}
+.srx_upcomming_sidebar .wpem-event-listing-list-view.wpem-event-listings .wpem-event-layout-wrapper .event_listing{
+	border-left: none;
+}
+
+
+/* Events post css */
+
+/* hide venue image and link  */
+
+.event_listing-template-default .wpem-venue-name.wpem-heading-text {
+    display: unset;
+    display: none !important;
+}
+/* .event_listing-template-default .wpem-listing-accordion.active {
+    display: none !important;
+} */
+.event_listing-template-default .wpem-row {
+    display: -webkit-box !important;
+}
+.event_listing-template-default .wpem-col-md-3.wpem-col-sm-12 {
+    visibility: hidden;
+} 
+/* .event_listing-template-default i.wpem-icon-minus {
+    visibility: hidden;
+} */
+/* .event_listing-template-default .wpem-listing-accordion.active {
+    border: none !important;
+    background-color: #fff !important;
+} */
+.event_listing-template-default .wpem-venue-profile {
+    padding-left: 20px !important;
+}
+/* .event_listing-template-default .wpem-event-share-lists {
+    visibility: hidden !important;
+} */
+/* .event_listing-template-default .event_registration.registration {
+    visibility: hidden;
+} */
+.event_listing-template-default img {
+    max-height: 500px !important;
+}
+.event_listing-template-default .wpem-event-organizer {
+    visibility: hidden;
+}
+.event_listing-template-default .wpem-single-event-body-content {
+    padding-top: 0px !important;
+}
+/*Archive page  */ /*------HIDE LOCATION HEADING ON SINGLE PAGE SIDEBAR--------*/ /* hide sidebar items */ /* hide venue image and link  */ /* news category sidebar upcomming events */
+
+.single_event_listing .wpem-single-event-sidebar-info div h3.wpem-heading-text:nth-child(2), .single_event_listing .wpem-single-event-sidebar-info div div a, .single_event_listing .wpem-single-event-sidebar-info div .clearfix ,.page-template-default .wpem-event-location,.page-template-default .wpem-main.wpem-event-listings-header ,.event_listing-template-default .event_registration.registration ,.event_listing-template-default .wpem-col-md-3.wpem-col-sm-12, .srx_sub_category mark.count, .srx_sub_category img ,  .srx_upcomming_sidebar .wpem-event-banner , .srx_upcomming_sidebar .wpem-event-date , .srx_upcomming_sidebar .wpem-event-location , .srx_upcomming_sidebar .wpem-main.wpem-event-listings-header{
+    display: none !important;
+}
+
+/* .single_event_listing .wpem-single-event-sidebar-info div h3.wpem-heading-text:nth-child(2), .single_event_listing .wpem-single-event-sidebar-info div div a, .single_event_listing .wpem-single-event-sidebar-info div .clearfix ,.page-template-default .wpem-main.wpem-event-listings-header ,.event_listing-template-default .event_registration.registration ,.event_listing-template-default .wpem-col-md-3.wpem-col-sm-12, .srx_sub_category mark.count, .srx_sub_category img ,  .srx_upcomming_sidebar .wpem-event-banner , .srx_upcomming_sidebar .wpem-event-date , .srx_upcomming_sidebar .wpem-main.wpem-event-listings-header{
+    display: none !important;
+}  */
+
+/* responsivness */
+@media only screen and (max-width:1024px){
+	.equipment-category ul.products.columns-2 {
+    grid-column-gap: 80px;
+}
+	.product-template-default.single-product .elementor.swiper-slide.e-loop-item.product.type-product.status-publish.has-post-thumbnail {
+    width: 308px;
+    margin-right: 5px;
+}
+}
+@media only screen and (max-width:879px){
+		.product-template-default.single-product .elementor.swiper-slide.e-loop-item.product.type-product.status-publish.has-post-thumbnail {
+   width: 392px;
+    margin-right: 5px;
+}
+/* 	.srx_sub_category .e-con-inner {
+    display: block;
+}
+	.srx_sub_category .woocommerce ul.products li.product.first a:first-child:before{
+		display:none;
+	} */
+}
+@media only screen and (max-width:767px){
+	.srx_sub_category .woocommerce ul.products li.product.first a:first-child:before {
+    content: ""!important;
+margin: 0px;
+}
+	.equipment-category ul.products.columns-2 {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-gap: 80px;
+    grid-row-gap: 30px;
+}
+	.product-template-default.single-product .elementor.swiper-slide.e-loop-item.product.type-product.status-publish.has-post-thumbnail {
+    width: 336px;
+    margin-right: 5px;
+}
+
+}</style>
+<!-- end Simple Custom CSS and JS -->

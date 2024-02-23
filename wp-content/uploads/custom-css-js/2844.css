@@ -1,0 +1,16 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#srx_sm_3_toolbox .newsletter p, .newsletter-submit p {
+    display: grid !important;
+}
+
+.page-id-2870 a.elementor-postthumbnaillink img {
+    object-fit: contain;
+}
+.page-id-2870 a.elementor-postthumbnaillink img{
+    object-fit: contain;
+}
+.the-toolbox a.elementor-post__thumbnail__link img {
+    object-fit: contain;
+}</style>
+<!-- end Simple Custom CSS and JS -->

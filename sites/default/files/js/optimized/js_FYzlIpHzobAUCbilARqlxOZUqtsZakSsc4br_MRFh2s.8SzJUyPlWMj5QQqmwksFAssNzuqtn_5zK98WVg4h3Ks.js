@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/modules/contrib/webform/js/webform.form.auto_focus.js. */
+(function(t,u){'use strict';u.behaviors.webformAutofocus={attach:function(u){t(u).find('.js-webform-autofocus :input:visible:enabled:first').trigger('focus')}}})(jQuery,Drupal);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/modules/contrib/webform/js/webform.form.auto_focus.js. */

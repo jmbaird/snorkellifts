@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/misc/jquery.tabbable.shim.js. */
+(function(e,a,r){var t=r.isTabbable;e.extend(e.expr[':'],{tabbable:function(e){a.deprecationError({message:'The :tabbable selector is deprecated in Drupal 9.2.0 and will be removed in Drupal 11.0.0. Use the core/tabbable library instead. See https://www.drupal.org/node/3183730'});if(e.tagName==='SUMMARY'||e.tagName==='DETAILS'){var r=e.getAttribute('tabIndex');if(r===null||r<0){return!1}};return t(e)}})})(jQuery,Drupal,window.tabbable);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/misc/jquery.tabbable.shim.js. */

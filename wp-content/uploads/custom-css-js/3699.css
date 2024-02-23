@@ -1,0 +1,185 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.store_locator_loading {
+    z-index: 10;
+    opacity: 0.7;
+}
+.stores-template-default.single-stores main#content {
+    max-width: 1200px;
+    padding-left: 8px;
+}
+.stores-template-default.single-stores span.wordpress-store-locator-store-in {
+    display: none;
+}
+h1.entry-title {
+    font-size: 40px!important;
+    font-weight: 800;
+	color: var( --e-global-color-primary )!important;
+}
+.stores-template-default.single-stores  .gform_wrapper.gravity-theme {
+    width: 80%;
+    grid-row: 1 / span 3;
+    padding-top: 30px;
+}
+.stores-template-default.single-stores .store_locator_single_description.store-locator-col-12 {
+   display: grid;
+    grid-template-columns: 70% 28.8%;
+    gap: 15px;
+	padding: 0px;
+}
+.stores-template-default.single-stores .store-locator-row::before, .store_locator_single_contact_store{
+	display:none;
+}
+..stores-template-default.single-stores  .store_locator_single_map_render {
+    margin-top: 15px;
+	height: 350px;
+}
+.stores-template-default.single-stores .store_locator_single_opening_hours.store-locator-col-12 {
+    background: #f7f7f7;
+    flex: 1 0 25%;
+    margin: 15px;
+    order: 2;
+    padding: 30px;
+    margin-right: 0px;
+    display: flex;
+	font-size: 15px;
+    flex-direction: column;
+	    max-width: 28.8%;
+	justify-content: center;
+}
+.stores-template-default.single-stores .store_locator_single_opening_hours h2 ,.store_locator_single_contact h2  ,.store_locator_single_address h2 ,.stores-template-default.single-stores .ginput_container_textarea .charleft.ginput_counter.gfield_description{
+    display:none;
+}
+
+.stores-template-default.single-stores .store_locator_single_opening_hours.store-locator-col-12:before {
+    content: 'Hours of Operation';
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+	margin-top: -3px;
+    margin-bottom: 15px;
+	color: #231f20;
+}
+.store_locator_single_address.store-locator-col-12.store-locator-col-sm-6:before {
+    content: 'CONTACT INFORMATION';
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+	margin-top: -5px;
+    margin-bottom: 15px;
+	display: block;
+    line-height: 1.2em;
+	color: #231f20;
+}
+.location-dealer--services-offered h4, .location-dealer--snorkel-company-offices h4 {
+    font-size: 24px;
+	border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+	margin-top: -3px;
+    margin-bottom: 15px;
+	color:#231f20;
+    font-weight: 700;
+}
+div#block-views-block-dealer-services-offered, div#block-views-block-dealer-snorkel-company-offices{
+    background: #f7f7f7;
+    padding: 35px 30px;
+	    flex: 1 0 33%;
+}
+.service-offered-item ,.location-dealer--snorkel-company-offices p{
+    font-size: 15px;
+	color:#231f20;
+}
+.stores-template-default.single-stores div#store_locator_single_map {
+    flex: 0 0 70%;
+	order:1;
+	padding-right: 25px;
+	padding-left: 0px;
+}
+.stores-template-default.single-stores .store-locator-row:first-child {
+    align-items: end;
+    display: flex;
+    flex-direction: column;
+}
+.stores-template-default .page-content {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.stores-template-default.single-stores .store_locator_single_address.store-locator-col-12.store-locator-col-sm-6 ,.stores-template-default.single-stores .store_locator_single_contact.store-locator-col-12.store-locator-col-sm-6{
+	padding: 30px;
+    max-width: 28.8%;
+    background: #f7f7f7;
+    margin-top: 15px;
+}
+.stores-template-default.single-stores .store_locator_single_contact.store-locator-col-12.store-locator-col-sm-6 {
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+	margin-bottom:30px;
+}
+.stores-template-default.single-stores .store_locator_single_address.store-locator-col-12.store-locator-col-sm-6 {
+    padding-bottom: 0px !important;
+}
+.stores-template-default.single-stores .gfield_radio,.stores-template-default.single-stores .gfield_checkbox ,.gform_wrapper fieldset#field_10_9  {
+    display: flex;
+}
+.stores-template-default.single-stores .gfield_description{
+	padding-top:2px;
+	font-size:14px;
+}
+.stores-template-default.single-stores h2.gform_title{
+	font-size: 30px!important;
+    font-weight: 800;
+	color: var( --e-global-color-primary )!important;
+}
+.stores-template-default.single-stores .gform_wrapper.gravity-theme input[type=text] {
+    border: 1px solid #888;
+    border-radius: 0px;
+}
+.stores-template-default.single-stores .gform_wrapper.gravity-theme .gfield_label {
+    font-size: 15px !important;
+}
+.stores-template-default.single-stores input[type="submit"] {
+    border: none;
+    padding: 8px 40px;
+}
+.stores-template-default.single-stores .gform_wrapper.gravity-theme .gform_fields {
+	grid-row-gap: 14px;
+}
+.stores-template-default.single-stores .store-locator-row {
+    margin: 0px;
+}
+@media screen and (max-width: 1336px){
+	.stores-template-default.single-stores main#content {
+    padding-left: 15px;
+}
+	div#block-views-block-dealer-services-offered, div#block-views-block-dealer-snorkel-company-offices {
+		max-width: 96%;
+	}
+	.stores-template-default.single-stores .store_locator_single_opening_hours.store-locator-col-12 {
+	    max-width: 27.7%;
+	}
+
+@media screen and (max-width: 1201px){
+	.stores-template-default.single-stores main#content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+	div#block-views-block-dealer-services-offered, div#block-views-block-dealer-snorkel-company-offices {
+		max-width: 96%;
+	}
+.stores-template-default.single-stores .store_locator_single_opening_hours.store-locator-col-12 {
+    max-width: 28.7%;
+}
+.stores-template-default.single-stores .store-locator-row:first-child {
+    width: 100%;
+}
+div#block-views-block-dealer-services-offered, div#block-views-block-dealer-snorkel-company-offices {
+    max-width: 100%;
+}
+.store_locator_single_map_render {
+    margin-top: 15px!important;
+    height: 350px!important;
+}
+}</style>
+<!-- end Simple Custom CSS and JS -->

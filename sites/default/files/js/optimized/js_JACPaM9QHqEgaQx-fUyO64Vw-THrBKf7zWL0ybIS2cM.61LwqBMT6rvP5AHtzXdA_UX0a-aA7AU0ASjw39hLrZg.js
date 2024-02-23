@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/misc/details-aria.js. */
+(function(a,r){r.behaviors.detailsAria={attach:function(){a(once('detailsAria','body')).on('click.detailsAria','summary',function(r){var t=a(r.currentTarget),e=a(r.currentTarget.parentNode).attr('open')==='open'?'false':'true';t.attr({'aria-expanded':e,'aria-pressed':e})})}}})(jQuery,Drupal);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/misc/details-aria.js. */

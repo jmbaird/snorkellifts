@@ -1,0 +1,60 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* hide venue image and link  */
+.event_listing-template-default .wpem-col-md-3.wpem-col-sm-12 {
+    display: none !important;
+}
+.event_listing-template-default .wpem-venue-name.wpem-heading-text {
+    display: unset;
+    display: none !important;
+}
+/* .event_listing-template-default .wpem-listing-accordion.active {
+    display: none !important;
+} */
+.event_listing-template-default .wpem-row {
+    display: -webkit-box !important;
+}
+.event_listing-template-default .wpem-col-md-3.wpem-col-sm-12 {
+    visibility: hidden;
+}
+/* .event_listing-template-default i.wpem-icon-minus {
+    visibility: hidden;
+} */
+/* .event_listing-template-default .wpem-listing-accordion.active {
+    border: none !important;
+    background-color: #fff !important;
+} */
+.event_listing-template-default .wpem-venue-profile {
+    padding-left: 20px !important;
+}
+/* hide sidebar items */
+.event_listing-template-default .event_registration.registration {
+    display: none !important;
+}
+/* .event_listing-template-default .wpem-event-share-lists {
+    visibility: hidden !important;
+} */
+/* .event_listing-template-default .event_registration.registration {
+    visibility: hidden;
+} */
+.event_listing-template-default img {
+    max-height: 500px !important;
+}
+.event_listing-template-default .wpem-event-organizer {
+    visibility: hidden;
+}
+.event_listing-template-default .wpem-single-event-body-content {
+    padding-top: 0px !important;
+}
+/*Archive page  */
+.page-template-default .wpem-main.wpem-event-listings-header {
+    display: none !important
+}
+.page-template-default .wpem-event-location {
+    display: none;
+}
+/*------HIDE LOCATION HEADING ON SINGLE PAGE SIDEBAR--------*/
+.single_event_listing .wpem-single-event-sidebar-info div h3.wpem-heading-text:nth-child(2), .single_event_listing .wpem-single-event-sidebar-info div div a, .single_event_listing .wpem-single-event-sidebar-info div .clearfix {
+    display: none !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->

@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/core/misc/debounce.js. */
+;Drupal.debounce=function(r,u,t){var n,e;return function(){for(var o=arguments.length,i=new Array(o),a=0;a<o;a++){i[a]=arguments[a]};var l=this,f=function(){n=null;if(!t){e=r.apply(l,i)}},c=t&&!n;clearTimeout(n);n=setTimeout(f,u);if(c){e=r.apply(l,i)};return e}};
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/core/misc/debounce.js. */

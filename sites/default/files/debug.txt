@@ -1,0 +1,2 @@
+solotandem_preprocess_page
+$variables again here ==>

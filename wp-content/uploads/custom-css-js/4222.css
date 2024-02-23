@@ -1,0 +1,64 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.srx_sub_category img {
+    display: none !important;
+}
+/* .srx_sub_category h2.woocommerce-loop-category__title:before {
+  color: #f68933;
+  content: "|"!important;
+  font-family: "Open Sans",sans-serif;
+  font-weight: 300;
+  margin: 0 10px;
+} */
+.srx_sub_category .woocommerce ul.products li.product a:before {
+    color: #f68933;
+    content: "|"!important;
+    font-family: "Open Sans",sans-serif;
+    font-weight: 300;
+    margin: 0 10px;
+	line-height: 35px;
+}
+.srx_sub_category .woocommerce ul.products li.product.first a:first-child:before {
+    color: #f68933;
+    content: "|"!important;
+    font-family: "Open Sans",sans-serif;
+    font-weight: 300;
+    margin: 0 10px;
+	font-size:25px;
+	line-height: 35px;
+}
+.srx_sub_category .woocommerce ul.products li.product a{
+    display:inline-flex;
+}
+/* .srx_sub_category h1.elementor-heading-title.elementor-size-default:after {
+    color: #f68933;
+    content: "|";
+    font-family: "Open Sans",sans-serif;
+    font-weight: 300;
+    margin: 0 10px;
+	font-size:larger;
+} */
+
+.srx_sub_category mark.count {
+    display: none !important;
+}
+.srx_sub_category .elementor-widget-theme-page-title.elementor-page-title.elementor-widget-heading {
+    width: auto;
+}
+.srx_sub_category ul.products.elementor-grid.columns-4 {
+    display: flex !important;
+	flex-wrap: wrap;
+}
+.equipment-category .woocommerce ul.products li.product a img:hover {
+    opacity: 0.7;
+}
+.equipment-category .woocommerce ul.products li.product a img{
+	margin-bottom:5px;
+}
+@media only screen and (max-width:767px){
+	.srx_sub_category .woocommerce ul.products li.product.first a:first-child:before {
+    content: ""!important;
+margin: 0px;
+}
+}</style>
+<!-- end Simple Custom CSS and JS -->

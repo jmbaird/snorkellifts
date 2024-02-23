@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/modules/contrib/commerce/modules/cart/js/commerce_cart.form.js. */
+(function(t,e,n,i){'use strict';e.behaviors.commerceCartForm={attach:function(e){t(i('commerce-cart-edit-quantity','.quantity-edit-input',e)).keydown(function(e){if(e.keyCode===13){e.preventDefault();t(':input#edit-submit',t(this).parents('form')).click()}})}}})(jQuery,Drupal,drupalSettings,once);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/modules/contrib/commerce/modules/cart/js/commerce_cart.form.js. */

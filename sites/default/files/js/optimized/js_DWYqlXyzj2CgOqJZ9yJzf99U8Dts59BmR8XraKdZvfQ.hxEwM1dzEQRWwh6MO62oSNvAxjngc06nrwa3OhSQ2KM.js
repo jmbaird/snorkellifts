@@ -1,0 +1,4 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/modules/contrib/simple_sitemap/js/simple_sitemap.fieldsetSummaries.js. */
+(function(i){'use strict';Drupal.behaviors.simple_sitemapFieldsetSummaries={attach:function(t,a){i(t).find('#edit-simple-sitemap').drupalSetSummary(function(a){var t=[];i('input:radio.enabled-for-variant').each(function(){if(i(this).is(':checked')&&i(this).val()==1){t.push(i(this).attr('class').split(' ')[1])}});if(t.length>0){return Drupal.t('Included in sitemap variants: ')+t.join(', ')}
+else{return Drupal.t('Excluded from all sitemap variants')}})}}})(jQuery);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/modules/contrib/simple_sitemap/js/simple_sitemap.fieldsetSummaries.js. */

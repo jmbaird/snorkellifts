@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/modules/contrib/commerce/modules/product/js/commerce_product.update_product_url.js. */
+(function(t){'use strict';t.AjaxCommands.prototype.updateProductUrl=function(a,o){var t=new URLSearchParams(window.location.search);t.set('v',o.variation_id);window.history.replaceState({},document.title,window.location.pathname+'?'+t.toString())}})(Drupal);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/modules/contrib/commerce/modules/product/js/commerce_product.update_product_url.js. */

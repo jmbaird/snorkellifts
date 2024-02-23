@@ -1,0 +1,22 @@
+2024-01-29T05:12:38+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\Core\Utils::_unstable_check_document_permissions() in /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/payments/module.php:150
+Stack trace:
+#0 [internal function]: ElementorPro\Modules\Payments\Module->get_stripe_tax_rates(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /home/snorkellifts/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/snorkellifts/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/payments/module.php on line 150
+
+2024-01-29T05:13:02+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\Core\Utils::_unstable_check_document_permissions() in /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/payments/module.php:150
+Stack trace:
+#0 [internal function]: ElementorPro\Modules\Payments\Module->get_stripe_tax_rates(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 /home/snorkellifts/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 /home/snorkellifts/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /home/snorkellifts/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/snorkellifts/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in /home/snorkellifts/public_html/wp-content/plugins/elementor-pro/modules/payments/module.php on line 150
+

@@ -1,0 +1,221 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Header Menu */
+.menu-h3 a {
+    font-weight: 700;
+    font-size: 14.5px !important;
+}
+.aws-search-result .aws_search_more a {
+    color: #ff6c0c;
+    font-weight: 600;
+}
+.header-menu #menu-snorkellifts-main-menu li.menu-item-object-page .ekit-menu-nav-link.active:after ,.header-menu #menu-snorkellifts-main-menu li.menu-item .ekit-menu-nav-link:hover:after,.current_page_ancestor:after, .page-id-3204 #menu-item-3398 a.ekit-menu-nav-link:after{
+    background-color:var(--e-global-color-primary);
+    height: 3px;
+    width: 100%;
+    left: 0;
+    z-index: 2;
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 0;
+    border:none;
+   transform: scale(1);
+}
+.equipment-menu .woocommerce ul.products li.product a img{
+    display: none !important;
+}
+.equipment-menu .woocommerce ul.products li.product a h2.woocommerce-loop-category__title:hover{
+	color:var(--e-global-color-primary) !important;
+}
+/* About us sub menu */
+.menu-item-1579 .elementskit-submenu-panel li a.active {
+    background: #000 !important;
+}
+.menu-item-1579 .elementskit-submenu-panel li a.active:hover {
+    background: var(--e-global-color-primary) !important;
+}
+/* location menu */
+
+/*--------------HEADER SEARCH--------------------*/
+#snorkel-search li::marker {
+    content: '' !important;
+}
+#snorkel-search li select option{
+    background-color:#fff !important;
+    color: #777;
+}
+#snorkel-search li select{
+    padding:10px 5px;
+}
+#snorkel-search form ul {
+    display: flex;
+    padding: 0px;
+    background: #f4f4f4;
+    border-radius: 35px;
+}
+#snorkel-search form ul li:first-child {
+    width: 92%;
+}
+#snorkel-search form ul li:last-child {
+    width: 8%;
+    border-left:1px solid #fff;
+}
+#snorkel-search .searchandfilter ul li input[type="submit"] {
+    text-indent: -9999px;
+    background: url('/wp-content/uploads/2023/12/search.png') no-repeat center 50%;
+    background-size: 16px;
+    border: none;
+    cursor: pointer;
+    outline:none;
+}
+#snorkel-search input::placeholder {
+    opacity: 0.6;
+}
+#snorkel-search input[type=date], #snorkel-search input[type=email], #snorkel-search input[type=number], #snorkel-search input[type=password], #snorkel-search input[type=search], #snorkel-search input[type=tel], #snorkel-search input[type=text], #snorkel-search input[type=url], #snorkel-search select, textarea, #snorkel-search input[type=text]:focus-visible, #snorkel-search .aws-wrapper input{
+    border:none !important;
+    border-color: transparent;
+    outline: none;
+    background: transparent;
+}
+#snorkel-search .aws-container .aws-search-form .aws-form-btn{
+    border: none !important;
+    border-color: transparent;
+    background: transparent;
+    font-size: 13px;
+    font-weight: 600;
+    color: #777;
+    border-left: 1px solid #fff !important;
+    outline: none;
+}
+#snorkel-search li input, #snorkel-search li select, #snorkel-search li select:focus-visible, #snorkel-search li select:focus {
+    border: none !important;
+    background: transparent;
+    font-size: 13px;
+    font-weight: 600;
+    color: #777;
+}
+#snorkel-search form{
+    background: #f4f4f4;
+    border-radius: 50px;
+    max-height: 38px;
+}
+#snorkel-search .aws-container .aws-show-clear .aws-search-field, #snorkel-search .aws-container .aws-show-clear .aws-search-label {
+    padding-right: 20px;
+    padding: 8px 20px;
+}
+/* ---------Footer---------- */
+.newsletter p, .newsletter-submit p {
+    margin-bottom: 12px;
+    display: flex;
+    align-items: start;
+    gap: 10px;
+}
+.newsleter .wpcf7-spinner{
+    display: none;
+}
+.newsletter input {
+    border-radius: 0;
+    border: #e6e6e6 1px solid;
+    color: #666666;
+    padding: 10px 15px;
+}
+.newsleter .wpcf7-not-valid-tip {
+    font-size: 13px;
+    padding: 3px 0px;
+}
+.newsleter .wpcf7 form.invalid .wpcf7-response-output{
+    border-color:var(--e-global-color-primary);
+}
+.newsleter input[type=text]:focus,.newsleter input[type=email]:focus,.newsleter input[type=text]:focus-visible, .newsleter input[type=email]:focus-visible, .newsleter input[type=submit]:focus , .newsleter input[type=submit]:focus-visible{
+    border-color:#e6e6e6 !important;
+    outline:0px !important;
+}
+.newsletter label{
+    width: 100%;
+}
+.subscribe {
+    padding: 10px 50px !important;
+    font-weight:700!important;
+    font-size:15px !important;
+}
+.snorkellifts-footer h5 {
+    margin-bottom:5px;
+    font-size:16px;
+    font-weight:500;
+}
+.snorkellifts-footer a, .snorkellifts-footer a:hover {
+    color:#000 !important;
+    line-height: 23px !important;
+}
+#snorkellifts-footer-bottom a {
+    color: #fff !important;
+    padding: 5px 24px;
+}
+.footer-block a:hover h3.elementor-icon-box-title , .footer-block a:hover .elementor-icon-box-icon svg{
+    color: var(--e-global-color-primary) !important;
+    fill: var(--e-global-color-primary) !important;
+    transition:.3s all ease-in-out;
+}
+.footer-pages p {
+    color: #fff;
+}
+/*----------MOBILE REPONSIVENESS START---------*/
+@media screen and (max-width: 1800px){
+	.footer-block h3.elementor-icon-box-title {
+    width: 165px;
+}
+}
+@media screen and (max-width: 1024px){
+.header-menu #menu-snorkellifts-main-menu li.menu-item-object-page .ekit-menu-nav-link.active:after, .header-menu #menu-snorkellifts-main-menu li.menu-item .ekit-menu-nav-link:hover:after{
+	display:none;
+	}
+	.header-menu a.ekit-menu-nav-link.active {
+    background: var(--e-global-color-primary);
+    color: #fff !important;
+}
+.aws-container .aws-search-field {
+    font-size: 12px !important;
+}
+.header-menu #menu-snorkellifts-main-menu li.menu-item:hover .elementskit-submenu-indicator {
+    color: #fff!important;
+}
+.header-menu .ekit_menu_responsive_tablet .elementskit-navbar-nav-default .elementskit-navbar-nav {
+    overflow: auto !important;
+    overflow-x: hidden !important;
+}
+.header-menu li:hover, .current_page_ancestor {
+    background: var(--e-global-color-primary) !important;
+}
+.header-menu li:hover a {
+    color: #fff !important;
+}
+.header-menu i.icon.icon-arrow-point-to-down.elementskit-submenu-indicator {
+    border: none;
+}
+.header-menu #menu-snorkellifts-main-menu li.menu-item-object-page.active:after ,.header-menu #menu-snorkellifts-main-menu li.menu-item-object-page:hover:after{
+    height: 0px;
+}
+    .footer-block h3.elementor-icon-box-title {
+    width: 125px;
+}
+}
+@media only screen and (max-width: 600px) {
+    #snorkellifts-footer-bottom a {
+        display: block;
+    }
+    #snorkellifts-footer-bottom p{
+        color: transparent;
+    }
+.newsletter p, .newsletter-submit p {
+    margin-bottom: 0px;
+    display: block;
+}
+.newsletter input {
+    margin-bottom: 12px;
+}
+    .subscribe {
+    width: 100%;
+}
+/*----------MOBILE REPONSIVENESS END---------*/</style>
+<!-- end Simple Custom CSS and JS -->

@@ -1,0 +1,4 @@
+/* Source and licensing information for the line(s) below can be found at http://snorkellifts.com/modules/contrib/blazy/js/plugin/blazy.loading.min.js. */
+!function(c){"use strict";function n(n){return c.chain(n,function(n){var s="loading",n=[n,c.closest(n,".is-"+s),c.closest(n,'[class*="'+s+'"]')];c.each(n,function(n){var a;c.isElm(n)&&(a=n.className,c.contains(a,s)&&(n.className=a.replace(/(\S+)loading/g,"")))})})}c.unloading=n,c.fn.unloading=function(){return n(this)}}(dBlazy);
+
+/* Source and licensing information for the above line(s) can be found at http://snorkellifts.com/modules/contrib/blazy/js/plugin/blazy.loading.min.js. */

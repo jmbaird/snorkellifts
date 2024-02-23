@@ -1,0 +1,21 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.srx_sm_3_locator #wpsl-radius label, .srx_sm_3_locator #wpsl-category label, .srx_sm_3_locator .wpsl-input label{
+	width: 250px !important
+}
+.srx_sm_3_locator .wpsl-input {
+    display: grid !important;
+	width: 100% !important;
+	font-size: 20px !important;
+}
+.srx_sm_3_locator .wpsl-search.wpsl-clearfix {
+    background-color: #fff!important;
+}
+.srx_sm_3_locator input#wpsl-search-input {
+    width: 30%;
+    
+    border-radius: unset;
+	margin-top: 10px !important;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

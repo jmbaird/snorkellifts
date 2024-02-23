@@ -1,0 +1,36 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* news category sidebar upcomming events */
+ .srx_upcomming_sidebar .wpem-event-banner , .srx_upcomming_sidebar .wpem-event-date , .srx_upcomming_sidebar .wpem-event-location {
+    display: none !important;
+}
+.srx_upcomming_sidebar .wpem-main.wpem-event-listings-header {
+    display: none;
+}
+.srx_upcomming_sidebar .wpem-event-details {
+    padding-left: 0px !important;
+}
+
+.srx_upcomming_sidebar .wpem-event-listing-list-view.wpem-event-listings .wpem-event-layout-wrapper .event_listing {
+    padding: 0px !important;
+}
+.srx_upcomming_sidebar h3.wpem-heading-text {
+    font-size: 14px !important;
+	color: #FF6C0C !important;
+	font-weight: 400 !important;
+}
+.srx_upcomming_sidebar h3.wpem-heading-text:hover {
+    color: #FF6C0CDE !important;
+}
+.srx_upcomming_sidebar .wpem-event-date-time {
+    font-size: 14px !important;
+    color: #231F20 !important;
+}
+.srx_upcomming_sidebar .wpem-event-listing-list-view {
+   margin-bottom: 10px!important;
+}
+.srx_upcomming_sidebar .wpem-event-listing-list-view.wpem-event-listings .wpem-event-layout-wrapper .event_listing{
+	border-left: none;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

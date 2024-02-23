@@ -1,0 +1,11 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.srx-sm-3-event .wpem-col-md-3 {
+    display: none;
+}
+.srx-sm-3-event .wpem-venue-name.wpem-heading-text {
+    display: none;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

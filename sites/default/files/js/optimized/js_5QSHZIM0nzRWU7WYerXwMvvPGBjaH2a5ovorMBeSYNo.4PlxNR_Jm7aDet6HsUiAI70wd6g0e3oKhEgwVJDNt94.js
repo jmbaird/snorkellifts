@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://www.snorkellifts.com/modules/contrib/webform/js/webform.element.select.js. */
+(function(t,e){'use strict';e.behaviors.webformSelectOptionsDisabled={attach:function(e){t('select[data-webform-select-options-disabled]',e).once('webform-select-options-disabled').each(function(){var e=t(this),i=e.attr('data-webform-select-options-disabled').split(/\s*,\s*/);e.find('option').filter(function(){return(t.inArray(this.value,i)!==-1)}).attr('disabled','disabled')})}}})(jQuery,Drupal);
+/* Source and licensing information for the above line(s) can be found at http://www.snorkellifts.com/modules/contrib/webform/js/webform.element.select.js. */
